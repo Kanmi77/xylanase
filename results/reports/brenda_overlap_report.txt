@@ -1,0 +1,21 @@
+BRENDA overlap report
+==================================================
+Master rows: 36337
+Filtered rows: 155
+BRENDA rows: 1400
+
+Master UniProt overlap: 38
+Filtered UniProt overlap: 2
+Master organism overlap: 16
+Filtered organism overlap: 5
+
+Sample filtered UniProt overlaps:
+B9VSZ3
+E3WF08
+
+Sample filtered organism overlaps:
+aspergillus sulphureus
+bacillus licheniformis
+bacillus subtilis
+malbranchea pulchella
+uncultured bacterium

@@ -1,0 +1,198 @@
+section,temperature_value,organism,uniprot,commentary,literature
+temperature_optimum,100,Bacillus subtilis,-,-,751229
+temperature_optimum,22,Niallia circulans,P09850,assay at,707522
+temperature_optimum,25,Pseudoalteromonas haloplanktis,Q8RJN8,cold-adapted enzyme,656075
+temperature_optimum,30,Acetivibrio thermocellus,"P10478,",O32374 assay at,709200
+temperature_optimum,768777,Penicillium griseofulvum - assay at,707567,Dickeya chrysanthemi - -,655834
+temperature_optimum,663859,Hordeum vulgare,-,-,171605
+temperature_optimum,717395,35 35 - 45 Talaromyces funiculosus Q8J0K5 at pH 4.0,664181,,
+temperature_optimum,37,Alternaria sp.,-,assay at,737904
+temperature_optimum,737904,Aspergillus sp.,-,assay at,737904
+temperature_optimum,737904,Bipolaris sp.,-,assay at,737904
+temperature_optimum,737904,Chloridium sp.,-,assay at,737904
+temperature_optimum,737904,Cordyceps sp.,-,assay at,737904
+temperature_optimum,737904,Epicoccum sp.,-,assay at,737904
+temperature_optimum,737904,Fusarium sp.,-,assay at,737904
+temperature_optimum,737904,Minimidochium sp. TMS2011,-,assay at,737904
+temperature_optimum,737904,Nigrospora sp.,-,assay at,737904
+temperature_optimum,707230,Paenibacillus sp. W-61,-,assay at,708936
+temperature_optimum,737904,Phanerodontia chrysosporium,-,assay at,737904
+temperature_optimum,737904,Rhodonia placenta,-,assay at,737904
+temperature_optimum,737904,Teredinibacter turnerae,C5BJ89,assay at,749504
+temperature_optimum,701091,Trichoderma reesei,-,assay at,737904
+temperature_optimum,737904,uncultured bacterium,-,-,775836
+temperature_optimum,37 - 40,Euphausia superba,-,isozymes A and B,655257
+temperature_optimum,38,Pseudobutyrivibrio xylanivorans,-,-,655379
+temperature_optimum,40,Aspergillus niger,-,assay at,654892
+temperature_optimum,171624,Bacillus sp. (in: firmicutes),-,-,717091
+temperature_optimum,709202,Cellulomonas fimi,-,xylanase B and C,171653
+temperature_optimum,171583,Duganella sp. PAMC,,,27433
+temperature_optimum,769515,Fusarium oxysporum,-,-,171637
+temperature_optimum,717889,Hordeum vulgare,Q94G06,-,677960
+temperature_optimum,171631,Niallia circulans,P09850,assay at,709203
+temperature_optimum,750814,Penicillium sp. CGMCC 1669,D1GFE6,recombinant enzyme,707207
+temperature_optimum,752084,Rhizophlyctis rosea,A0A2U8LMQ3,small enzyme form RrXyn11A S,749718
+temperature_optimum,746374,Streptomyces sp.,F7J663,-,730370
+temperature_optimum,752127,uncultured bacterium,A0A3G9FT71,-,750245
+temperature_optimum,42,Aspergillus niger,-,-,171599
+temperature_optimum,45,Albifimbria verrucaria,-,-,171652
+temperature_optimum,737475,Aspergillus luchuensis,P33557,-,739002
+temperature_optimum,171598,,-,xylanase I and II,171597
+temperature_optimum,751243,Bacillus subtilis,-,at pH 6.0,770731
+temperature_optimum,655665,Cellulomonas fimi,-,xylanase A,171653
+temperature_optimum,745089,Malbranchea pulchella,-,xylanase A and B,171587
+temperature_optimum,738866,Neocallimastix patriciarum,A8TGA1,-,695791
+temperature_optimum,750448,Penicillium occitanis (nom. inval.),-,-,718338
+temperature_optimum,171584,Pomacea maculata,Q7Z1V6,recombinant EGXA with xylan as substrate,695295
+temperature_optimum,707250,Trichoderma longibrachiatum,-,-,171647
+temperature_optimum,171632,45 - 50 Bacillus pumilus,-,-,171586
+temperature_optimum,50,Acetivibrio thermocellus,-,-,750432
+temperature_optimum,695683,Aspergillus fumigatus,-,-,737935
+temperature_optimum,738888,Aspergillus giganteus,-,both xylanase I and xylanase II,665016
+temperature_optimum,171634,,-,xylanase II,171633
+temperature_optimum,731024,,F5CI28,-,729014
+temperature_optimum,171654,Aspergillus sulphureus,Q3S401,recombinant enzyme,707197
+temperature_optimum,776226,Bacillus licheniformis,-,-,752334
+temperature_optimum,717410,4/17 Bacillus sp. (in: firmicutes),-,"- 667012,",708851
+temperature_optimum,171622,Cellulomonas flavigena,A1XM14,-,697503
+temperature_optimum,697503,Cellvibrio mixtus,O68541,-,744626
+temperature_optimum,750679,Cohnella sp. AR92,-,-,768810
+temperature_optimum,171625,Kitasatospora sp.,"A0A3T0YV67,",A0A3T0YV60 -,750084
+temperature_optimum,681351,Marinimicrobium sp. LSA18,A0A411LPM1,optimum temperature with 10% (w/v) NaCl,768777
+temperature_optimum,744626,Paenibacillus curdlanolyticus,A0A0A0R2Z1,-,737855
+temperature_optimum,717404,Penicillium citrinum,-,at both pH 3.5 and pH 8.5,681711
+temperature_optimum,699042,Penicillium janczewskii,-,-,739567
+temperature_optimum,707211,Rhizophlyctis rosea,A0A2U8LMQ3,large enzyme form RrXyn11A L,749718
+temperature_optimum,750435,5/17 carbohydrate binding module (CBM6) Ruminococcus flavefaciens,-,catalytic domains XYL-A and XYL-C,171648
+temperature_optimum,664785,,P35809,-,729654
+temperature_optimum,729010,Termitomyces clypeatus,-,-,707210
+temperature_optimum,656559,Thermomyces lanuginosus,O43097,carboxymethyl cellulase activity of the fusion enzyme (EG-M-Xyn) of endoglucanase (cellulase) from Teleogryllus emma and xylanase from Thermomyces lanuginosus and of the parental endoglucanase,750783
+temperature_optimum,656575,Trametes hirsuta,-,"30 min, stable",171629
+temperature_optimum,171613,Trichoderma inhamatum,-,-,695668
+temperature_optimum,656334,,P36218,assay at,657221
+temperature_optimum,709576,,-,-,737477
+temperature_optimum,744542,Aspergillus caespitosus,-,"both isoforms xyl I, xyl II",666701
+temperature_optimum,709497,Cellulomonas flavigena,-,wild-type enzyme,655370
+temperature_optimum,707765,Aspergillus niger,-,uncultured bacterium,
+temperature_optimum,50 - 55,50 - 60 optimum temperature for hybrid xylanase and,695678,"6/17 its Aspergillus parent is 60°C and 50°C, respectively",
+temperature_optimum,55,Penicillium griseofulvum -,-,,677745
+temperature_optimum,677745,Thermobifida fusca,Q56265,"hybrid gene from Thermomonospora fusca with N-terminal region of Bacillus subtilis, temperature optimum is 664701 similar to temperature optimum of Thermomonospora fusca parent enzyme Acrophialophora nainiana - -",656332
+temperature_optimum,717947,Aspergillus cf. niger,BCC14405,Q6QA21 -,665441
+temperature_optimum,752113,,B8NJ86,-,750988
+temperature_optimum,679573,Aspergillus versicolor,-,-,666703
+temperature_optimum,769914,Bacillus sp. (in: firmicutes),-,recombinant enzyme from,171650
+temperature_optimum,696858,Bacillus subtilis,-,xylanase XynA,719992
+temperature_optimum,730872,Cellulomonas flavigena,-,mutant enzyme,655370
+temperature_optimum,746350,Cellulosimicrobium cellulans,T2M1V1,-,731029
+temperature_optimum,709491,Fusarium oxysporum,-,-,663671
+temperature_optimum,657201,7/17 Geobacillus stearothermophilus,-,-,680969
+temperature_optimum,750084,Kocuria sp. Mn22,B8XY24,-,709503
+temperature_optimum,654986,Neocallimastix patriciarum,Q9UV68,wild-type,744133
+temperature_optimum,707216,Niallia circulans,P09850,-,769727
+temperature_optimum,750448,Penicillium citrinum,Q2PGY1,-,665763
+temperature_optimum,752115,Penicillium sclerotiorum,-,xylanase II,707211
+temperature_optimum,750334,Ruminiclostridium josui,-,"RjAbf62A-Axe6A, containing all four modules but lacking the signal peptide",750435
+temperature_optimum,171619,Streptomyces thermocarboxydus,C6ZHB0,recombinant enzyme,709555
+temperature_optimum,655807,,A0A6N4SL16,-,768726
+temperature_optimum,171630,Thermobifida fusca,-,-,707403
+temperature_optimum,750799,,G0S9G3,for CTendo7's xylanase activity and endoglucanase activity,750799
+temperature_optimum,742765,Trichoderma reesei,LC132960,wild-type,744124
+temperature_optimum,707762,Trichoderma sp. TP3-36,-,-,776215
+temperature_optimum,655620,Mycothermus thermophilus,-,"xylanase 1, xylanase 2",738127
+temperature_optimum,171660,55 - 62 Trichoderma reesei,-,-,680210
+temperature_optimum,56,Aspergillus nidulans,-,hydrolysis of oat spelt xylan,171658
+temperature_optimum,58,Cellulomonas uda,-,-,136300
+temperature_optimum,60,Alicyclobacillus sp.,A0A0P0ISK8,-,737905
+temperature_optimum,738888,,-,-,769929
+temperature_optimum,709190,Aspergillus niger,-,-,710686
+temperature_optimum,744626,,I3QKR9,mutant enzyme T205C/A52C,751243
+temperature_optimum,770012,Bacillus licheniformis,-,-,682685
+temperature_optimum,171656,,Q84F19,-,664690
+temperature_optimum,707810,,A0A172MAU1,immobilized enzyme and soluble enzyme,750593
+temperature_optimum,707258,Cellulosimicrobium sp.,B2BZ80,-,737466
+temperature_optimum,774449,55 - 60 Bacillus subtilis 9/17 Gelatoporia subvermispora,-,-,664998
+temperature_optimum,681342,Irpex lacteus,-,xylanase I,171612
+temperature_optimum,655228,Melanocarpus albomyces,-,isozymes IIa and IIb,654986
+temperature_optimum,730191,Paenibacillus campinasensis,Q2I6W5,-,718337
+temperature_optimum,699498,Paenibacillus sp.,-,-,717094
+temperature_optimum,664683,Pseudozyma hubeiensis,-,assay at,707766
+temperature_optimum,775585,Streptomyces avermitilis Q9X584 purified heavier protein band (42.8 kDa),698373,Streptomyces coelicolor Q8CJQ1 -,737481
+temperature_optimum,699489,Streptomyces griseorubens,-,-,745416
+temperature_optimum,171639,Streptomyces lividans,-,"- 171606,",171608
+temperature_optimum,171659,Streptomyces sp.,-,"- 654144,",655355
+temperature_optimum,695801,Streptomyces sp. T7,-,-,774465
+temperature_optimum,707196,10/17 60 - 65 65 Streptomyces thermocyaneoviolaceus,Q9RMM4,native enzyme,707809
+temperature_optimum,696797,Talaromyces purpureogenus A0A2H4RAC5 recombinant enzyme,749635,Thermoascus aurantiacus var. levisporus - -,743330
+temperature_optimum,695678,Thermochaetoides thermophila,-,xylanase II,737964
+temperature_optimum,655088,,-,-,696797
+temperature_optimum,750646,Trichoderma harzianum,-,29000 Da protein,171613
+temperature_optimum,707864,,-,Xyn2,707911
+temperature_optimum,710126,,LC132960,mutant Q286A/N340Y,744124
+temperature_optimum,731026,Streptomyces cyaneus,-,-,678757
+temperature_optimum,171594,Trichoderma harzianum,-,20000 Da enzyme form,171613
+temperature_optimum,707209,Aspergillus tubingensis,-,-,707209
+temperature_optimum,171595,11/17,-,enzyme from strain W1 and W3,171621
+temperature_optimum,719992,Luteimicrobium xylanilyticum,A0A286LNP2,wild-type,745089
+temperature_optimum,654986,,-,-,738730
+temperature_optimum,738730,Melioribacter roseus,"I7A603,","I6Z823, I6Z9A7 -",738862
+temperature_optimum,738192,Mycothermus thermophilus,-,-,743097
+temperature_optimum,744133,N38Y/F52W/G56Y/G201L Paecilomyces variotii,-,-,738999
+temperature_optimum,730187,Remersonia thermophila,-,-,729007
+temperature_optimum,707403,Streptomyces sp. S27,-,-,695696
+temperature_optimum,738405,Thermomyces lanuginosus,-,"- 171617,",737547
+temperature_optimum,742096,,-,-,742958
+temperature_optimum,743887,,O43097,parental xylanase,750783
+temperature_optimum,710126,Trametes hirsuta,-,-,171629
+temperature_optimum,710126,,-,recombinant enzyme,707415
+temperature_optimum,698785,uncultured microorganism,E2DQY5,-,717134
+temperature_optimum,65 - 80,Aspergillus niger,-,xylanase IA and IB,171633
+temperature_optimum,70,Acetivibrio thermocellus,-,-,738886
+temperature_optimum,750497,,A0LR95,recombinant enzyme,750497
+temperature_optimum,742216,Bacillus licheniformis,-,X-I,677623
+temperature_optimum,171650,,-,enzyme component II from strain W1 and strain W2,171591
+temperature_optimum,171621,,-,"- 654996, 663532, 682728,",717105
+temperature_optimum,719992,Caldicellulosiruptor saccharolyticus,-,-,171655
+temperature_optimum,679547,,-,"- 681342,",731022
+temperature_optimum,171612,Malbranchea cinnamomea,-,-,741623
+temperature_optimum,171596,Melanocarpus albomyces,-,"isozymes Ia, Ib, and Ic",654986
+temperature_optimum,729182,Phanerodontia chrysosporium,-,"isoforms xynA, xynC",664683
+temperature_optimum,3328,,F2VRY7,-,717131
+temperature_optimum,738999,,-,xylanase bII,738999
+temperature_optimum,717401,Streptomyces halstedii,Q59922,-,751704
+temperature_optimum,742400,Thermoanaerobacterium,P36917,saccharolyticum -,775899
+temperature_optimum,738405,Thermochaetoides thermophila,Q8J1V6,-,709894
+temperature_optimum,737964,,-,mutant enzyme,655088
+temperature_optimum,742400,,-,mutant M7,743887
+temperature_optimum,750783,Thermomyces lanuginosus 14/17 Thermopolyspora flexuosa,-,recombinant His-tagged enzyme,707229
+temperature_optimum,741623,Thermothelomyces heterothallicus,-,-,655176
+temperature_optimum,742216,Trichoderma reesei,-,at pH 4.0,770736
+temperature_optimum,707762,[Caldibacillus] cellulovorans,Q9L8L8,recombinant catalytic domain,656718
+temperature_optimum,70 - 75,Thermomyces lanuginosus,-,-,171643
+temperature_optimum,75,Acetivibrio thermocellus,A3DJS9,-,737360
+temperature_optimum,677623,Bacillus sp. (in: firmicutes),-,-,171645
+temperature_optimum,171651,Halalkalibacterium halodurans,-,at pH 9,679547
+temperature_optimum,774238,Paecilomyces sp. 'thermophila',D1G4K3,recombinant His-tagged enzyme,707603
+temperature_optimum,171627,,-,xylanase A,738999
+temperature_optimum,717022,Streptomyces sp.,D1FNQ6,-,746234
+temperature_optimum,742421,Thermoclostridium stercorarium,-,-,171615
+temperature_optimum,171582,15/17 Thermomyces dupontii,-,"- 741629,",741630
+temperature_optimum,654274,,O43097,mutant Q1C/Q24C,742096
+temperature_optimum,646829,Streptomyces ipomoeae,MK331807,-,750086
+temperature_optimum,742661,76 Thermoascus aurantiacus,-,-,741753
+temperature_optimum,80,Actinomadura sp.,-,recombinant XynS14,717886
+temperature_optimum,171646,Bacillus sp. (in: firmicutes),-,-,171628
+temperature_optimum,737851,Laetiporus sulphureus,-,-,699053
+temperature_optimum,742680,Melioribacter roseus,"I7A603,","I6Z823, I6Z9A7 -",738862
+temperature_optimum,657331,Pseudothermotoga thermarum,F7YXD6,-,729475
+temperature_optimum,718080,Thermoascus aurantiacus,-,"- 171601,",742959
+temperature_optimum,171636,Thermobifida fusca,Q47QL8,"recombinant protein, both with and without His-tag",737932
+temperature_optimum,171657,75 - 80 16/17,-,hydrolysis of xylan,171661
+temperature_optimum,171649,Thermomonospora sp.,-,-,654413
+temperature_optimum,708455,Priestia megaterium,-,-,681810
+temperature_optimum,742470,Acidothermus cellulolyticus,-,-,717123
+temperature_optimum,682991,Caldicellulosiruptor owensensis,E4Q2A4,-,745147
+temperature_optimum,729408,Lentinula edodes,-,"Xyl16-3, pH 5.0",655228
+temperature_optimum,679721,,Q97YG7,-,692258
+temperature_optimum,663571,Thermotoga petrophila,A5IL00,-,746962
+temperature_optimum,656718,95 Thermotoga petrophila,A5IL00,-,748630
+temperature_optimum,656075,85 90 17/17,,,
