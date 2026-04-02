@@ -1,0 +1,13 @@
+Curation results after GH/name/taxonomy annotation
+
+GH family counts:
+gh_family
+NaN     36105
+GH11      146
+GH10       86
+
+Organism type counts:
+organism_type
+bacterial    22389
+fungal        9274
+NaN           4674
