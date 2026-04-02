@@ -1,0 +1,11 @@
+Required annotation fields:
+1. organism_type -> bacterial / fungal
+2. gh_family -> GH10 / GH11
+3. optimum_temperature
+4. optimum_pH
+5. pdb_ids
+6. has_pdb
+7. structure_source
+8. refseq_ids
+9. sequence
+10. length

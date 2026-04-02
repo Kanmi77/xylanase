@@ -1,0 +1,20 @@
+# Logs
+*.log
+
+# Large data
+data/raw/*
+data/uniprot/raw/*
+data/refseq/raw/*
+data/cazy/raw/*
+
+# Model outputs
+models/swiss_model/outputs/*
+models/templates/pdb/*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.swp
