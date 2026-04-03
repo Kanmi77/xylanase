@@ -10,6 +10,9 @@ OUTCSV = BASE / "models" / "swiss_model" / "swiss_model_manifest_registered.csv"
 manifest = pd.read_csv(MANIFEST)
 OUTDIR.mkdir(parents=True, exist_ok=True)
 
+if "model_path" not in manifest.columns:
+    manifest["model_path"] = ""
+
 pdb_map = {}
 for pdb_file in OUTDIR.glob("*.pdb"):
     acc = pdb_file.stem.split("_")[0]
@@ -21,5 +24,6 @@ manifest["swiss_model_status"] = manifest["model_path"].apply(
 )
 
 manifest.to_csv(OUTCSV, index=False)
+
 print(f"Saved: {OUTCSV}")
 print(manifest["swiss_model_status"].value_counts(dropna=False))
