@@ -4,11 +4,7 @@ from pathlib import Path
 import re
 
 BASE = Path.home() / "xylanase" / "xylanase"
-
 MASTER = BASE / "data" / "curated" / "xylanase_master_table_annotated.csv"
-if not MASTER.exists():
-    MASTER = BASE / "data" / "curated" / "xylanase_master_table.csv"
-
 FILTERED = BASE / "data" / "curated" / "xylanase_filtered_bacterial_fungal_GH10_GH11.csv"
 BRENDA = BASE / "data" / "brenda" / "processed" / "brenda_xylanase_structured.csv"
 
@@ -23,54 +19,45 @@ def norm_text(x):
     x = re.sub(r"\s+", " ", x)
     return x
 
-def prepare_brenda_wide(brenda):
-    opt = brenda[brenda["record_type"] == "optimum_temperature"].copy()
-    opt["optimum_temperature_brenda"] = opt["temperature_value"]
-    opt["optimum_temperature_source"] = "BRENDA:" + opt["literature"].fillna("").astype(str).str.strip()
-    rng = brenda[brenda["record_type"] == "temperature_range"].copy()
-    rng["temperature_range_brenda"] = rng["temperature_value"]
-    rng["temperature_range_source"] = "BRENDA:" + rng["literature"].fillna("").astype(str).str.strip()
-    stab = brenda[brenda["record_type"] == "temperature_stability"].copy()
-    stab["temperature_stability_brenda"] = stab["temperature_value"]
-    stab["temperature_stability_source"] = "BRENDA:" + stab["literature"].fillna("").astype(str).str.strip()
+def make_wide(brenda):
+    wide_parts = []
 
-    opt = opt.rename(columns={
-        "value": "optimum_temperature_brenda",
-        "commentary": "optimum_temperature_commentary",
-        "literature": "optimum_temperature_literature",
-        "source_pdf": "optimum_temperature_source"
-    })
+    for record_type, prefix in [
+        ("optimum_temperature", "optimum_temperature"),
+        ("temperature_range", "temperature_range"),
+        ("temperature_stability", "temperature_stability"),
+        ("optimum_pH", "optimum_pH"),
+        ("pH_range", "pH_range"),
+    ]:
+        sub = brenda[brenda["record_type"] == record_type].copy()
+        if sub.empty:
+            continue
 
-    rng = rng.rename(columns={
-        "value": "temperature_range_brenda",
-        "commentary": "temperature_range_commentary",
-        "literature": "temperature_range_literature",
-        "source_pdf": "temperature_range_source"
-    })
+        sub = sub.rename(columns={
+            "value": prefix,
+            "commentary": f"{prefix}_commentary",
+            "literature": f"{prefix}_literature",
+            "source_file": f"{prefix}_source_file",
+        })
 
-    stab = stab.rename(columns={
-        "value": "temperature_stability_brenda",
-        "commentary": "temperature_stability_commentary",
-        "literature": "temperature_stability_literature",
-        "source_pdf": "temperature_stability_source"
-    })
+        keep = [
+            "uniprot_accession",
+            "organism_norm",
+            prefix,
+            f"{prefix}_commentary",
+            f"{prefix}_literature",
+            f"{prefix}_source_file",
+        ]
+        sub = sub[keep].drop_duplicates(subset=["uniprot_accession", "organism_norm"])
+        wide_parts.append(sub)
 
-    keep_opt = ["uniprot_accession", "organism_norm", "optimum_temperature_brenda",
-                "optimum_temperature_commentary", "optimum_temperature_literature",
-                "optimum_temperature_source"]
-    keep_rng = ["uniprot_accession", "organism_norm", "temperature_range_brenda",
-                "temperature_range_commentary", "temperature_range_literature",
-                "temperature_range_source"]
-    keep_stab = ["uniprot_accession", "organism_norm", "temperature_stability_brenda",
-                 "temperature_stability_commentary", "temperature_stability_literature",
-                 "temperature_stability_source"]
+    if not wide_parts:
+        return pd.DataFrame(columns=["uniprot_accession", "organism_norm"])
 
-    opt = opt[keep_opt].drop_duplicates(subset=["uniprot_accession", "organism_norm"])
-    rng = rng[keep_rng].drop_duplicates(subset=["uniprot_accession", "organism_norm"])
-    stab = stab[keep_stab].drop_duplicates(subset=["uniprot_accession", "organism_norm"])
+    wide = wide_parts[0]
+    for part in wide_parts[1:]:
+        wide = wide.merge(part, how="outer", on=["uniprot_accession", "organism_norm"])
 
-    wide = opt.merge(rng, how="outer", on=["uniprot_accession", "organism_norm"])
-    wide = wide.merge(stab, how="outer", on=["uniprot_accession", "organism_norm"])
     return wide
 
 def merge_dataset(df, wide):
@@ -82,51 +69,30 @@ def merge_dataset(df, wide):
     wide["uniprot_accession"] = wide["uniprot_accession"].fillna("").astype(str).str.strip()
     wide["organism_norm"] = wide["organism_norm"].fillna("").astype(str)
 
-    # first exact UniProt match
     up_wide = wide[wide["uniprot_accession"] != ""].drop_duplicates(subset=["uniprot_accession"])
-    out = df.merge(
-        up_wide.drop(columns=["organism_norm"]),
-        how="left",
-        on="uniprot_accession"
-    )
+    out = df.merge(up_wide.drop(columns=["organism_norm"]), how="left", on="uniprot_accession")
 
-    # second organism fallback only for rows still missing optimum temperature
     org_wide = wide.drop_duplicates(subset=["organism_norm"])
-    out = out.merge(
-        org_wide,
-        how="left",
-        on="organism_norm",
-        suffixes=("", "_org")
-    )
+    out = out.merge(org_wide, how="left", on="organism_norm", suffixes=("", "_org"))
 
-    # fill optimum temperature from organism fallback only if exact UniProt gave nothing
-    for col in [
-        "optimum_temperature_brenda",
-        "optimum_temperature_commentary",
-        "optimum_temperature_literature",
-        "optimum_temperature_source",
-        "temperature_range_brenda",
-        "temperature_range_commentary",
-        "temperature_range_literature",
-        "temperature_range_source",
-        "temperature_stability_brenda",
-        "temperature_stability_commentary",
-        "temperature_stability_literature",
-        "temperature_stability_source",
-    ]:
-        org_col = f"{col}_org"
-        if org_col in out.columns:
-            out[col] = out[col].combine_first(out[org_col])
-            out = out.drop(columns=[org_col])
+    for col in [c for c in out.columns if c.endswith("_org")]:
+        base = col[:-4]
+        out[base] = out[base].combine_first(out[col])
+        out = out.drop(columns=[col])
 
-    # map optimum temperature into main field only if currently empty
-    if "optimum_temperature" in out.columns:
-        out["optimum_temperature"] = out["optimum_temperature"].fillna("")
-        out["optimum_temperature_brenda"] = out["optimum_temperature_brenda"].fillna("")
+    if "optimum_temperature" in out.columns and "optimum_temperature_brenda" in out.columns:
+        out["optimum_temperature"] = out["optimum_temperature"].fillna("").astype(str)
+        out["optimum_temperature_brenda"] = out["optimum_temperature_brenda"].fillna("").astype(str)
         out["optimum_temperature"] = out.apply(
-            lambda r: r["optimum_temperature"]
-            if str(r["optimum_temperature"]).strip() != ""
-            else r["optimum_temperature_brenda"],
+            lambda r: r["optimum_temperature"] if r["optimum_temperature"].strip() else r["optimum_temperature_brenda"],
+            axis=1
+        )
+
+    if "optimum_pH" in out.columns and "optimum_pH_brenda" in out.columns:
+        out["optimum_pH"] = out["optimum_pH"].fillna("").astype(str)
+        out["optimum_pH_brenda"] = out["optimum_pH_brenda"].fillna("").astype(str)
+        out["optimum_pH"] = out.apply(
+            lambda r: r["optimum_pH"] if r["optimum_pH"].strip() else r["optimum_pH_brenda"],
             axis=1
         )
 
@@ -140,7 +106,14 @@ brenda = pd.read_csv(BRENDA)
 brenda["uniprot_accession"] = brenda["uniprot_accession"].fillna("").astype(str).str.strip()
 brenda["organism_norm"] = brenda["organism"].map(norm_text)
 
-wide = prepare_brenda_wide(brenda)
+wide = make_wide(brenda)
+
+rename_fill = {}
+if "optimum_temperature" in wide.columns:
+    rename_fill["optimum_temperature"] = "optimum_temperature_brenda"
+if "optimum_pH" in wide.columns:
+    rename_fill["optimum_pH"] = "optimum_pH_brenda"
+wide = wide.rename(columns=rename_fill)
 
 master_out = merge_dataset(master, wide)
 filtered_out = merge_dataset(filtered, wide)
@@ -151,13 +124,19 @@ filtered_out.to_csv(FILTERED_OUT, index=False)
 master_temp = (master_out["optimum_temperature"].fillna("").astype(str).str.strip() != "").sum()
 filtered_temp = (filtered_out["optimum_temperature"].fillna("").astype(str).str.strip() != "").sum()
 
-lines = []
-lines.append("BRENDA merge report")
-lines.append("=" * 50)
-lines.append(f"Master rows: {len(master_out)}")
-lines.append(f"Filtered rows: {len(filtered_out)}")
-lines.append(f"Master rows with optimum_temperature after merge: {master_temp}")
-lines.append(f"Filtered rows with optimum_temperature after merge: {filtered_temp}")
+master_ph = (master_out["optimum_pH"].fillna("").astype(str).str.strip() != "").sum()
+filtered_ph = (filtered_out["optimum_pH"].fillna("").astype(str).str.strip() != "").sum()
+
+lines = [
+    "BRENDA merge report",
+    "=" * 50,
+    f"Master rows: {len(master_out)}",
+    f"Filtered rows: {len(filtered_out)}",
+    f"Master rows with optimum_temperature after merge: {master_temp}",
+    f"Filtered rows with optimum_temperature after merge: {filtered_temp}",
+    f"Master rows with optimum_pH after merge: {master_ph}",
+    f"Filtered rows with optimum_pH after merge: {filtered_ph}",
+]
 
 REPORT.write_text("\n".join(lines), encoding="utf-8")
 

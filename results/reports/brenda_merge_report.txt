@@ -2,5 +2,7 @@ BRENDA merge report
 ==================================================
 Master rows: 36337
 Filtered rows: 155
-Master rows with optimum_temperature after merge: 379
-Filtered rows with optimum_temperature after merge: 16
+Master rows with optimum_temperature after merge: 343
+Filtered rows with optimum_temperature after merge: 12
+Master rows with optimum_pH after merge: 552
+Filtered rows with optimum_pH after merge: 23
