@@ -1,0 +1,586 @@
+pH_OPTIMUM,ORGANISM,UNIPROT,COMMENTARY,LITERATURE
+10,"Halalkalibacterium
+halodurans",-,-,729408
+10.5,"Bacillus sp. (in:
+firmicutes)",-,and also pH 8.5 and 6.5,667012
+11,"Halalkalibacterium
+halodurans",-,-,731022
+2,Aspergillus luchuensis,P33557,wild-type,739002
+2,"Cryptococcus sp. (in:
+basidiomycete fungi)",-,-,171583
+2.5,Penicillium sclerotiorum,-,xylanase I,707211
+3,Bispora sp. MEY-1,D6MYS9,-,707258
+3,Laetiporus sulphureus,-,-,699053
+3,"Penicillium occitanis
+(nom. inval.)",-,-,718338
+3.2,Acidomyces acidophilus,-,wild-type enzyme,707765
+3.5,Malbranchea pulchella,-,xylanase A,171587
+3.5,Rasamsonia emersonii,-,xylanase III,737633
+3.5,Talaromyces pinophilus,-,isozymes I and III,655807
+3.5,"Thermomyces
+lanuginosus",O43097,"carboxymethyl cellulase
+activity of the fusion
+enzyme (EG-M-Xyn) of
+endoglucanase
+(cellulase) from
+Teleogryllus emma and
+xylanase from
+Thermomyces
+lanuginosus and of the
+parental endoglucanase",750783
+3.7,Acidomyces acidophilus,-,mutant Y35W,707765
+3.8,Aspergillus luchuensis,P33557,mutant T64S,739002
+3.8,Talaromyces pinophilus,-,isozyme II,655807
+4,Acidomyces acidophilus,-,mutant E141A,707765
+4,,-,mutant Y35W/E141A,707765
+4,Aspergillus niger,-,-,171634
+4,,-,"xylanase IIa, IIB and IIC",171633
+4,"Bacillus sp. (in:
+firmicutes)",-,-,171628
+4,Lentinula edodes,-,Xylam and Xyl16-3,655228
+4,,-,-,681351
+4,Penicillium oxalicum,E7EF85,-,730138
+4,"Phialophora sp. CGMCC
+3328",F2VRY7,-,717131
+4,"Saccharolobus
+solfataricus",Q97YG7,-,"
+692258"
+4,Talaromyces pinophilus,A0A6N4SL16,-,
+4,Trichoderma reesei,-,at 37°C,770736
+4.1,Acidomyces acidophilus,-,mutant D60N,707765
+4.2,Pseudozyma hubeiensis,-,"PhX20, isoelectric
+focusing",707766
+4.2,Rasamsonia emersonii,-,xylanase II,737633
+4.4,Acidomyces acidophilus,-,mutant D60N/Y35W,707765
+4.5,Aspergillus niger,P55329,-,744626
+4.5,"Aureobasidium
+melanogenum",-,-,776226
+4.5,Fusarium oxysporum,-,-,171637
+4.5,Penicillium griseofulvum,-,-,707567
+4.5,Penicillium sclerotiorum,-,xylanase II,707211
+4.5,"Penicillium sp. CGMCC
+1669",D1GFE6,recombinant enzyme,707207
+4.5,"Phanerodontia
+chrysosporium",-,"isoforms xynA, xynB,
+xynC",664683
+4.5,"Rasamsonia
+byssochlamydoides",-,xylanase X-b-I,171627
+4.5,,-,xylanase bI,738999
+4.5,"Thermoascus
+aurantiacus",-,mutant Q158A,738405
+4.7,Acidomyces acidophilus,-,mutant D60N/E141A,707765
+4.9,Aspergillus niger,-,-,171598
+5,Alternaria sp.,-,assay at,737904
+5,Arthrinium sp.,-,assay at,737904
+5,"Aspergillus cf. niger
+BCC14405",Q6QA21,-,665441
+5,Aspergillus fumigatus,-,-,"682991,
+737935,
+769929"
+5,Aspergillus japonicus,-,-,709190
+5,Aspergillus luchuensis,P33557,mutant D48N/T64S,739002
+5,Aspergillus niger,-,-,
+5,,,,"171599,
+679573
+"
+5,,-,"hybrid xylanase and its
+Aspergillus parent",695678
+5,,F5CI28,-,729014
+5,,-,assay at,737497
+5,,I3QKR9,"wild-type enzyme and
+mutant enzyme
+T205C/A52C",751243
+5,Aspergillus sp.,-,assay at,737904
+5,Aspergillus sulphureus,Q3S401,recombinant enzyme,707197
+5,Aureobasidium sp.,-,assay at,737904
+5,"Bacillus sp. (in:
+firmicutes)",-,-,708851
+5,Bacillus subtilis,-,-,171622
+5,,P18429,"recombinant His-tagged
+wild-type enzyme",710466
+5,Bipolaris sp.,-,assay at,737904
+5,Cellulomonas fimi,-,xylanase A,171653
+5,Cephalosporium sp.,-,assay at,737904
+5,Chloridium sp.,-,assay at,737904
+5,Cladosporium sp.,-,assay at,737904
+5,"Clostridium
+acetobutylicum",-,xylanase A,171603
+5,Cordyceps sp.,-,assay at,737904
+5,"Cutaneotrichosporon
+cutaneum",-,-,171625
+5,Dothideomycetes sp.,-,assay at,737904
+5,Epicoccum sp.,-,assay at,737904
+5,Exophiala sp.,-,assay at,737904
+5,Fusarium graminearum,Q7ZA57,"about 35% of maximum
+activity",663859
+5,Fusarium sp.,-,assay at,737904
+5,"Gelatoporia
+subvermispora",-,-,664998
+5,Hordeum vulgare,Q94G06,-,677960
+5,Kitasatospora sp.,"A0A3T0YV67,
+A0A3T0YV60",-,750084
+5,Lentinula edodes,-,Xyl6-6 and Xyl1-3,655228
+5,"Luteimicrobium
+xylanilyticum",A0A286LNP2,"C-terminal truncated
+mutant",745089
+5,Microdochium sp.,-,assay at,737904
+5,"Minimidochium sp. TMS-
+2011",-,assay at,737904
+5,Naganishia albida,-,-,171631
+5,"Neocallimastix
+patriciarum",Q9UV68,"both wild-type and
+mutant
+N38Y/F52W/G56Y/G201L",744133
+5,Neurospora crassa,-,assay at,
+5,Nigrospora sp.,-,assay at,737904
+5,Paenibacillus sp. E18,-,assay at,707230
+5,Penicillium citrinum,Q2PGY1,-,665763
+5,,Q2PGY1,recombinant enzyme,752115
+5,Penicillium griseofulvum,-,-,701124
+5,Penicillium sp.,-,assay at,737904
+5,"Phanerodontia
+chrysosporium",-,assay at,737904
+5,Phoma sp.,-,assay at,737904
+5,Pleurotus ostreatus,A0A2U9Q8K4,-,750334
+5,"Rasamsonia
+byssochlamydoides",-,xylanase X-b-II,171627
+5,,-,xylanase bII,738999
+5,Rhodonia placenta,-,assay at,737904
+5,"Schizophyllum
+commune",-,-,171590
+5,,P35809,-,729654
+5,Sporothrix sp.,-,assay at,737904
+5,"Streptomyces
+griseorubens",-,-,745416
+5,Streptomyces sp.,F7J663,-,730370
+5,"Streptomyces
+thermocyaneoviolaceus",Q9RMM4,native enzyme,707809
+5,Talaromyces funiculosus,Q5ZNB1,-,718080
+5,Talaromyces pinophilus,T2HRP0,-,730881
+5,"Termitomyces
+aurantiacus",-,-,742400
+5,Termitomyces clypeatus,-,-,707210
+5,"Thermoanaerobacterium
+saccharolyticum",P36917,-,775899
+5,"Thermoascus
+aurantiacus",-,assay at,656559
+5,,-,"wild-type and mutant
+H209N",738405
+5,,-,-,"742421,
+742959"
+5,"Thermochaetoides
+thermophila",G0S9G3,-,750799
+5,,G0S9G3,"for CTendo7's xylanase
+activity and
+endoglucanase activity",750799
+5,"Thermothelomyces
+heterothallicus",-,-,655176
+5,,-,assay at,737497
+5,"Thermothelomyces
+thermophilus",-,assay at,737497
+5,,-,-,
+5,Thermotoga maritima,-,assay at,710126
+5,,A0A6M4EKY0,-,770860
+5,Trichoderma harzianum,-,"20000 Da enzyme form
+and 29000 Da enzyme
+form",171613
+5,Trichoderma reesei,P36218,assay at,657221
+5,,B2CNY5,-,709576
+5,,-,assay at,"710126,
+737904,
+737497"
+5,Trichoderma sp.,-,isozyme EX2,707762
+5,,-,assay at,737904
+5,Trichoderma sp. TP3-36,-,-,776215
+5,Trichoderma viride,-,-,171623
+5.1,"Thermoascus
+aurantiacus",-,-,171601
+5.4,Naganishia albida,-,"hydrolysis of xylan or 4-
+nitrophenyl-beta-D-
+xylopyranoside",171585
+5.5,Albifimbria verrucaria,-,-,171652
+5.5,Aspergillus niger,-,xylanase II,171597
+5.5,Bacillus subtilis,-,-,171618
+5.5,"bacterium enrichment
+culture clone Xyl8B8",H9ZGD1,acetate buffer,730872
+5.5,Demequina sp. JK4,B9VSZ3,-,709491
+5.5,"Duganella sp. PAMC
+27433",-,-,769515
+5.5,Fusarium oxysporum,-,-,663671
+5.5,Hordeum vulgare,-,-,171605
+5.5,Massilia sp. RBM26,A0A0S2I9J6,-,738866
+5.5,"Melanocarpus
+albomyces",-,isozyme Ib,654986
+5.5,Niallia circulans,P09850,assay at,709203
+5.5,Paenibacillus sp.,B6VF01,optimum 1,717404
+5.5,Penicillium griseofulvum,-,-,677745
+5.5,Pomacea insularus,-,-,171584
+5.5,"Rasamsonia
+byssochlamydoides",-,xylanase X-a,171627
+5.5,,-,xylanase A,738999
+5.5,Ruminiclostridium josui,-,"RjAbf62A-Axe6A,
+containing all four
+modules but lacking the
+signal peptide",750435
+5.5,"Schizophyllum
+commune",-,-,664785
+5.5,synthetic construct,-,-,696797
+5.5,Talaromyces funiculosus,Q9HFH0,-,677745
+5.5,Termitomyces clypeatus,-,-,171630
+5.5,"Thermoascus
+aurantiacus",-,mutant N257D,738405
+5.5,"Thermothielavioides
+terrestris",-,-,742470
+5.5,Trichoderma inhamatum,-,-,695668
+5.5,Trichoderma sp.,-,isozyme EX1,707762
+5.5,Triticum aestivum,Q9XGT8,-,752127
+5.6,Aspergillus niger,-,assay at,654892
+5.6,"Melanocarpus
+albomyces",-,xylanase IIIA,738730
+5.6,,-,isoform xylanase IIIA,738730
+5.6,"Parageobacillus
+thermantarcticus",-,-,657331
+5.6,"Pseudobutyrivibrio
+xylanivorans",-,-,655379
+5.8,Cellulomonas uda,-,-,136300
+6,Acetivibrio thermocellus,A3DJS9,-,737360
+6,,-,-,738886
+6,"Acidothermus
+cellulolyticus",-,-,717123
+6,,A0LR95,-,750497
+6,,A0LR95,recombinant enzyme,750497
+6,Actinomadura sp.,-,recombinant XynS14,717886
+6,Alicyclobacillus sp.,A0A0P0ISK8,-,737905
+6,Alternaria mali,-,-,695683
+6,Aspergillus giganteus,-,xylanase II,665016
+6,Aspergillus nidulans,-,-,171658
+6,Aspergillus niger,-,xylanase I,171597
+6,,-,assay at,707403
+6,,-,-,710686
+6,Aspergillus ochraceus,-,-,171654
+6,Bacillus licheniformis,-,-,682685
+6,,B5SYI8,-,697502
+6,"Bacillus sp. (in:
+firmicutes)",-,-,"171595,
+171645"
+6,,-,"enzyme component I
+from strain W1 and strain
+W2",171591
+6,,-,"enzyme from strain W1
+and W3",171621
+6,,Q84F19,-,664690
+6,Bacillus subtilis,B9ZZN9,-,699055
+6,,P18429,assay at,709202
+6,Cellulomonas fimi,-,xylanase B,171653
+6,Cellulomonas flavigena,-,-,746350
+6,Cellulosimicrobium sp.,B2BZ80,-,737466
+6,Dickeya chrysanthemi,-,-,655834
+6,Fusarium commune,"A0A0F7MX47,
+A0A0F7MYK0,
+A0A0F7N1T1",-,738135
+6,Irpex lacteus,-,-,
+6,"Luteimicrobium
+xylanilyticum",A0A286LNP2,wild-type,745089
+6,"Melanocarpus
+albomyces",-,isozymes Ia and Ic,654986
+6,"Neocallimastix
+patriciarum",A8TGA1,-,695791
+6,,P29127,-,744626
+6,"Paenibacillus
+curdlanolyticus",A0A0A0R2Z1,-,737855
+6,Penicillium canescens,C3VEV9,-,729182
+6,Penicillium citrinum,B1B533,-,699042
+6,Pomacea maculata,Q7Z1V6,"recombinant EGXA with
+xylan as substrate",695295
+6,"Pseudopedobacter
+saltans",F0S6Y3,-,752084
+6,"Pseudothermotoga
+thermarum",F7YXD6,-,729475
+6,Remersonia thermophila,-,-,729007
+6,Ruminiclostridium josui,-,"substrate: alpha-D-
+cellobiose octaacetate.
+Enzyme derivative
+RjAbf62A-CBM6,
+containing the glycoside
+hydrolase family 62
+(GH62) catalytic module
+and the family 6
+carbohydrate binding
+module (CBM6)",750435
+6,Streptomyces coelicolor,Q8CJQ1,-,737481
+6,Streptomyces cyaneus,-,-,678757
+6,Streptomyces lividans,-,-,171606
+6,"Streptomyces
+olivaceoviridis",-,-,171659
+6,,-,assay at,707403
+6,Streptomyces sp.,-,-,654144
+6,,D1FNQ6,-,746234
+6,Streptomyces sp. T7,-,-,774465
+6,"Streptomyces
+thermocarboxydus",C6ZHB0,recombinant enzyme,709555
+6,Teredinibacter turnerae,C5BJ89,assay at,749504
+6,Thermobifida fusca,Q56265,"hybrid gene from
+Thermomonospora fusca
+with N-terminal region of
+Bacillus subtilis, pH-
+optimum is similar to pH-
+optimum of Bacillus
+subtilis parent enzyme",664701
+6,,-,assay at,707403
+6,"Thermoclostridium
+stercorarium",-,-,171661
+6,"Thermomyces
+lanuginosus",-,-,171617
+6,,O43097,assay at,654274
+6,,-,-,737547
+6,,-,assay at,742214
+6,,-,-,742400
+6,"Thermothelomyces
+thermophilus",-,-,742765
+6,,"G2QIK8,
+G2QDB9",recombinant enzyme,750646
+6,Thermotoga maritima,-,-,663571
+6,Thermotoga petrophila,A5IL00,at 70°C,748630
+6,Trichoderma reesei,B2CNY5,-,707864
+6,,-,Xyn2,707911
+6,,-,recombinant enzyme,707415
+6,Trichoderma virens,-,-,171632
+6,uncultured bacterium,-,-,737477
+6,,A0A127JBT0,-,744542
+6,,A0A3G9FT71,-,750245
+6,"[Caldibacillus]
+cellulovorans",Q9L8L8,"recombinant catalytic
+domain at 70°C, and
+recombinant N-terminal
++ catalytic domains at
+90°C",656718
+6.1,Thermotoga maritima,-,assay at,656575
+6.2,Cohnella sp. AR92,-,-,768810
+6.3,Streptomyces halstedii,-,-,171639
+6.5,"Acrophialophora
+nainiana",-,-,655620
+6.5,Arthrobacter sp.,A0A0F6MV31,-,737475
+6.5,Bacillus cereus,-,-,770012
+6.5,Bacillus licheniformis,-,-,752334
+6.5,Bacillus pumilus,-,"hydrolysis of larchwood
+xylan",171624
+6.5,"Bacillus sp. (in:
+firmicutes)",-,and also pH 8.5 and 10.5,667012
+6.5,Bacillus subtilis,Q45VU2,assay at,707810
+6.5,,-,"xylanase XynA and
+chimeric enzyme CorA-
+XynA",719992
+6.5,,A0A172MAU1,"immobilized enzyme and
+soluble enzyme",750593
+6.5,"Caldicellulosiruptor
+saccharolyticus",-,-,171655
+6.5,Cellulomonas flavigena,-,wild-type enzyme,655370
+6.5,Cellvibrio mixtus,O68541,-,744626
+6.5,"Geobacillus
+stearothermophilus",-,-,171651
+6.5,"Malbranchea
+cinnamomea",A0A088BC14,-,742680
+6.5,Malbranchea pulchella,-,xylanase B,171587
+6.5,Melioribacter roseus,"I7A603,
+I6Z823,
+I6Z9A7",-,738862
+6.5,"Mycothermus
+thermophilus",-,-,743097
+6.5,Paecilomyces variotii,-,-,738999
+6.5,Paenibacillus sp.,A0A075EEX4,-,730187
+6.5,"Saccharopolyspora
+pathumthaniensis",E1APH5,-,717401
+6.5,"Sphingobacterium sp.
+TN19",D8L2Y2,-,707250
+6.5,Streptomyces ipomoeae,MK331807,-,750086
+6.5,Streptomyces sp. S27,-,-,695696
+6.5,Streptomyces sp. S9,B4XVN1,-,695801
+6.5,Streptomyces sp. TN119,C6FX34,recombinant enzyme,707196
+6.5,Thermobifida alba,-,-,"171636
+"
+6.5,"Thermochaetoides
+thermophila",Q8J1V6,-,709894
+6.5,"Thermomyces
+lanuginosus",-,-,"171643,
+696797,
+742766,
+742958"
+6.5,uncultured bacterium,-,-,775836
+6.6,Bacillus pumilus,Q5EFR9,recombinant enzyme,717410
+6.6,"Melanocarpus
+albomyces",-,xylanase IA,738730
+6.6,,-,isoform xylanase IA,738730
+6.7,"Thermomyces
+lanuginosus",-,mutant enzyme,655088
+7,"Acrophialophora
+nainiana",-,-,656332
+7,Alicyclobacillus sp.,D3VWB5,-,717947
+7,Aspergillus niger,-,-,680984
+7,Bacillus licheniformis,-,X-I,677623
+7,Bacillus subtilis,P18429,"for most mutants the pH
+optimum is around 5.5-
+6.0",680984
+7,"Caldicellulosiruptor
+owensensis",E4Q2A4,-,745147
+7,Cellulomonas flavigena,-,mutant enzyme,655370
+7,,A1XM14,"highest xylanase activity
+in citrate-phosphate
+buffer, 10% less activity
+than in Tris-HCl",697503
+7,Fusarium graminearum,Q7ZA57,-,663859
+7,Fusarium oxysporum,-,assay at,717889
+7,"Halalkalibacterium
+halodurans",-,-,681342
+7,"Melanocarpus
+albomyces",-,isozymes IIb and IId,654986
+7,"Nesterenkonia
+xinjiangensis",D1KJJ7,recombinant enzyme,707216
+7,"Paecilomyces sp.
+'thermophila'",D1G4K3,"recombinant His-tagged
+enzyme",707603
+7,"Paenibacillus
+campinasensis",Q2I6W5,-,718337
+7,"Paenibacillus
+curdlanolyticus",B1A3N2,-,699498
+7,Paenibacillus sp.,-,-,717094
+7,Paenibacillus sp. W-61,-,assay at,708936
+7,Pediococcus acidilactici,-,-,750814
+7,Rhizophlyctis rosea,A0A2U8LMQ3,-,749718
+7,"Saccharolobus
+solfataricus",-,at 80°C,679721
+7,Streptomyces halstedii,Q59922,-,751704
+7,"Thermoclostridium
+stercorarium",-,xylanase A,171582
+7,Thermomyces dupontii,-,-,741630
+7,"Thermomyces
+lanuginosus",-,wild-type enzyme,655088
+7,,O43097,"xylanase activity of the
+fusion enzyme (EG-M-
+Xyn) of endoglucanase
+(cellulase) from
+Teleogryllus emma and
+xylanase from
+Thermomyces
+lanuginosus",750783
+7,"Thermopolyspora
+flexuosa",-,assay at,707229
+7,"Thermothelomyces
+thermophilus","G2QIK8,
+G2QDB9",recombinant enzyme,750646
+7,"uncultured
+microorganism",E2DQY5,-,717134
+7,,I6M1A2,-,731026
+7.2,Niallia circulans,P09850,assay at,707522
+7.3,"Thermomyces
+lanuginosus",-,wild-type,743887
+7.5,Aspergillus flavus,B8NKE9,-,752113
+7.5,,B8NJ86,-,750988
+7.5,Bacillus subtilis,-,"thermostabel xylanase
+variant XynAG3 and
+chimeric enzyme CorA-
+XynAG3",719992
+7.5,"Paenibacillus
+curdlanolyticus",E3WF08,recombinant enzyme,
+7.5,,,,"717395
+"
+7.5,Priestia megaterium,-,-,681810
+7.5,Streptomyces avermitilis,Q9X584,"purified heavier protein
+band (42.8 kDa)",698373
+7.5,Thermomyces dupontii,-,-,741629
+7.8,Streptomyces fradiae,A7TVD4,at 50°C,699489
+7.8,"Thermochaetoides
+thermophila",Q6UN40,-,701091
+8,Aspergillus terreus,-,-,707209
+8,Aspergillus tubingensis,-,-,707209
+8,"Bacillus sp. (in:
+firmicutes)",-,-,"717091,
+717105"
+8,Fusarium graminearum,Q7ZA57,"about 45% of maximum
+activity at pH 6, about
+60% of maximum activity
+at pH 9",663859
+8,,Q7ZA57,"about 55% of maximum
+activity",663859
+8,,-,XylA,677692
+8,"Geobacillus
+stearothermophilus",-,-,680969
+8,"Marinimicrobium sp. LS-
+A18",A0A411LPM1,-,768777
+8,"Melanocarpus
+albomyces",-,isozyme IIc,654986
+8,Microcella alkaliphila,A0A0U5B5Z4,-,738192
+8,"Rhodothermaceae
+bacterium RA",A0A1V0DJ74,-,775585
+8,Streptomyces olivaceus,-,-,746374
+8,Thermobifida fusca,Q47QL8,"recombinant protein,
+both with and without
+His-tag",737932
+8.1,"Thermomyces
+lanuginosus",-,mutant M7,743887
+8.4,"Bacillus sp. (in:
+firmicutes)",-,-,"663532,
+682728"
+8.5,Bacillus pumilus,-,"isoforms X-I, X-III, and X-
+V exhibit optimum
+activity at pH 8.5",769914
+8.5,"Bacillus sp. (in:
+firmicutes)",-,and also pH 10.5 and 6.5,667012
+8.5,Bacillus sp. 41M-1,Q9RC94,wild-type DELTAXBD,696858
+8.5,Kocuria sp. Mn22,B8XY24,-,709503
+8.5,"Melanocarpus
+albomyces",-,isozyme IIa,654986
+8.5,Penicillium citrinum,-,-,
+8.5,,,,681711
+9,Aspergillus terreus,-,-,
+9,Bacillus pumilus,-,"isoforms X-II and X-IV
+exhibit optimum activity",769914
+9,Bacillus subtilis,-,-,751229
+9,Cellulomonas flavigena,A1XM14,"highest activity at pH 9
+in Tris-HCl buffer,
+whereas in citrate-
+phosphate buffer at pH 7
+the best activity is 90%
+of that observed in Tris-
+HCl",697503
+9,,A1XM14,"highest xylanase activity
+in Tris-HCl buffer",697503
+9,"Halalkalibacterium
+halodurans",M4QNR9,-,737851
+9,,-,-,774238
+9,"Microbacterium
+trichothecenolyticum",A0A067XRW0,-,730191
+9,"Thermoascus
+aurantiacus var.
+levisporus",-,-,743330
+9.2,Staphylococcus sp.,-,"and a second optimum
+at pH 7.5",171641
+9.5,Paenibacillus sp.,B6VF01,optimum 2,717404
+pH RANGE,ORGANISM,UNIPROT,COMMENTARY,LITERATURE
+10,Thermomyces dupontii,-,"60% of maximum
+activity",741629
+10,"uncultured
+microorganism",I6M1A2,"40% of maximum
+activity",731026
+4,Streptomyces coelicolor,Q8CJQ1,"40% of maximum
+activity",737481
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
