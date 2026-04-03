@@ -1,0 +1,133 @@
+TEMPERATURE,ORGANISM,UNIPROT,COMMENTARY,LITERATURE
+,TEMPERATURERANGE,ORGANISM,UNIPROT,COMMENTARY
+10 - 55,Pseudopedobactersaltans,F0S6Y3,"recombinant enzyme,activity range, proﬁleoverview",752084
+10 - 65,Sphingobacterium sp.TN19,D8L2Y2,the enzyme showsover 65% of itsmaximum activity at20-28°C and about40% at 10°C,707250
+10 - 80,Pediococcus acidilactici,-,"native extracellularenzyme, over 65%activity within thisrange, proﬁleoverview",750814
+10 - 90,Demequina sp. JK4,B9VSZ3,"enzyme assay range,50% of maximalactivity at 45°C and60°C",709491
+100,Thermomyceslanuginosus,-,40% of maximumactivity,742766
+20 - 50,Penicillium griseofulvum,-,-,707567
+20 - 60,Cladosporium sp.,A0A346PXS9,"20°C: about 40% ofmaximal activity,60°C: about 35% ofmaximal activity",750679
+20 - 70,Aspergillus sulphureus,Q3S401,"50% of maximalactivity at 20°C, 20%at 70°C",707197
+20 - 70,Nesterenkoniaxinjiangensis,D1KJJ7,"activity range, proﬁle,overview",707216
+20 - 80,Bispora sp. MEY-1,D6MYS9,-,707258
+20 - 80,Paenibacillus sp.,B6VF01,activity range,717404
+20 - 80,Streptomyces avermitilis,Q9X584,"puriﬁed heavierprotein band (42.8kDa), more than 50%of maximum activity",698373
+20 - 90,Thermoanaerobacteriumsaccharolyticum,P36917,"the enzyme shows84.1%, 91.5% and97.3% relativeactivities at 40, 50,and 60 °C,respectively,compared to themaximum activity at70°C. At lowertemperatures, suchas 20 and 30°C, theenzyme exhibitsmore than 40%relative activity. Inaddition, the enzymeis active at hightemperatures of 80and 90°C, withrelative activities of52.8 and 30.2%,respectively",775899
+20 - 90,Trichoderma reesei,-,"activity range, proﬁle,overview",707911
+25 - 60,Dickeya chrysanthemi,-,-,655834
+25 - 70,Acidomyces acidophilus,-,-,707765
+25 - 75,Bacillus licheniformis,-,"activity range, proﬁleoverview",752334
+30 - 45,Duganella sp. PAMC27433,-,the enzyme showsmore than 50%activity between 30and 45°C. Theenzyme displays 12%of its maximumactivity at 4°C and20% activity at 8°C,769515
+30 - 45,uncultured bacterium,-,approximately 80%activity is maintainedin intervals of 30 and45°C,775836
+30 - 50,Massilia sp. RBM26,A0A0S2I9J6,more than 60% ofmaximum activity,738866
+30 - 50,Penicillium occitanis(nom. inval.),-,"more than 75% of theactivity at 30°C,rapidly decrease inactivity above 50°C",718338
+30 - 50,Thermochaetoidesthermophila,Q6UN40,-,701091
+30 - 50,uncultured bacterium,A0A3G9FT71,"30°C: about 60% ofmaximal activity,50°C: about 50% ofmaximal activity",750245
+30 - 55,Bacillus subtilis,P18429,"activity range,inactive at 60°C,temperature proﬁle ofrecombinant His-tagged wild-type andmutant enzymes,overview",710466
+30 - 55,Kitasatospora sp.,"A0A3T0YV67,A0A3T0YV60","50% of maximalactivity within thisrange, proﬁleoverview",750084
+30 - 60,uncultured bacterium,A0A127JBT0,more than 60% ofmaximum activity,744542
+30 - 65,Kitasatospora sp.,"A0A3T0YV67,A0A3T0YV60","50% of maximalactivity within thisrange, proﬁleoverview",750084
+30 - 70,Aspergillus fumigatus,-,-,682991
+30 - 70,Aspergillus niger,-,"activity range, proﬁle,overview",710686
+30 - 70,Bacillus subtilis,A0A172MAU1,"30°C: immobilizedenzyme shows about50% of maximalactivity, solubleenzyme shows about40% of maximalactivity. 70°C:immobilized enzymeshows about 65% ofmaximal activity,soluble enzymeshows about 50% ofmaximal activity",750593
+30 - 70,Cellulomonas ﬂavigena,A1XM14,-,697503
+30 - 70,Kocuria sp. Mn22,B8XY24,activity range,709503
+30 - 70,Paenibacillus sp. E18,-,"proﬁle, overview",707230
+30 - 70,Pleurotus ostreatus,A0A2U9Q8K4,"30°C: about 50% ofmaximal activity,70°C: about 35% ofmaximal activity",750334
+30 - 70,Streptomycesthermocyaneoviolaceus,Q9RMM4,"native enzyme,activity range, proﬁle,overview",707809
+30 - 70,Trichoderma reesei,B2CNY5,30% of maximalactivity at 70°C,709576
+30 - 70,Trichoderma sp.,-,"activity range,isozyme EX2",707762
+30 - 75,Aspergillus fumigatus,-,more than 60% ofmaximum activity isretained attemperatures rangingfrom 30 to 75Â°C,769929
+30 - 75,Streptomyces sp.,-,about 50% ofmaximal activity at50°C and 75°C,654144
+30 - 75,Trametes hirsuta,-,"30°C: about 50% ofmaximal activity,75°C: about 30% ofmaximal activity",171629
+30 - 80,Streptomyces halstedii,-,"30°C: about 30% ofmaximal activity ofenzyme form Xys1L,about 50% ofmaximal activity ofenzyme form Xys1S,80°C: about 15% ofmaximal activity ofenzyme form Xys1L,about 35% ofmaximal activity ofenzyme form Xys1S",171639
+30 - 85,Acetivibrio thermocellus,-,"over 50% of maximalactivity within thisrange, proﬁleoverview",738886
+30 - 90,Thermochaetoidesthermophila,G0S9G3,"activity range, proﬁleoverview",750799
+30 - 90,Thermotoga maritima,-,"activity range ofmutant hybridenzyme, proﬁle,overview",710126
+30 - 90,Trichoderma reesei,-,"activity range of wild-type and mutantenzymes, proﬁle,overview, 30% ofmaximal activity at75°C",710126
+30 - 90,,-,"recombinant enzyme,activity range, 45% ofmaximal activity at80°C, proﬁle,overview",707415
+30 - 90,Trichoderma sp.,-,"activity range,isozyme EX1",707762
+35 - 100,Bispora sp. MEY-1,D0QF43,"activity range, 80% ofmaximal activity at75-90°C, 20% at100°C, and 10% at40°C, proﬁle,overview",708455
+35 - 60,Cellulomonas ﬂavigena,-,more than 80% ofmaximum activity,746350
+35 - 68,Aspergillus niger,-,more than 68% ofmaximum activity,731024
+35 - 75,Streptomycesthermocarboxydus,C6ZHB0,activity range,709555
+35 - 75,unculturedmicroorganism,E2DQY5,activity range,717134
+37 - 60,Acetivibrio thermocellus,-,more than 50%activity between 37and 60°C,750432
+40 - 100,[Caldibacillus]cellulovorans,Q9L8L8,recombinant N-terminal + catalyticdomains,656718
+40 - 50,Bacillus licheniformis,B5SYI8,-,697502
+40 - 50,Bacillus subtilis,B9ZZN9,activity sharplydecreases below30°C and above 60°C,699055
+40 - 55,Aureobasidiummelanogenum,-,more than 75%activity between 40and 55°C,776226
+40 - 60,Bacillus subtilis,Q45VU2,"transxylosylation andhydrolysis activitiesare optimal attemperatures of 60°Cand 40°C,respectively",696821
+40 - 60,Fusarium oxysporum,-,more than 80% ofmaximal activity at40°C and at 60°C,171637
+40 - 60,Penicillium citrinum,Q2PGY1,"recombinant enzyme,over 50% of maximalactivity within thisrange, proﬁleoverview",752115
+40 - 60,Trichoderma harzianum,-,"40°C, about 70% ofmaximal activity,60°C: about 30% ofmaximal activity,20000 Da xylanase",171613
+40 - 60,Trichoderma sp. TP3-36,-,more than 50%activity between 40and 60°C,776215
+40 - 63,Aspergillus ﬂavus,B8NJ86,"over 50% of maximalactivity within thisrange, proﬁleoverview",750988
+40 - 65,Alicyclobacillus sp.,D3VWB5,XynA4 shows over50% of maximalactivity within thisrange,717947
+40 - 70,Acetivibrio thermocellus,A3DJS9,more than 95% ofmaximum activity,737360
+40 - 70,Evansstolkia leycettana,-,"the enzyme showsabout 50% activity at40 C and 40% activityat 70 C. At roomtemperature (23 C),the enzyme is almost",774449
+40 - 70,,,inactive(approximately 1%activity),
+40 - 70,Fusarium proliferatum,-,89% of maximalactivity at 60°C and14% at 70°C,657201
+40 - 70,Streptomyces lividans,-,"40°C: about 50% ofmaximal activity,70°C: about 25% ofmaximal activity",171608
+40 - 70,Streptomyces sp. T7,-,"the enzyme showsapproximately 60% ofthe maximum activitywhen assayedbetween 40 and70°C, while more than40% of the enzymeactivity below 20°C orabove 80°C",774465
+40 - 75,Bacillus sp. (in:ﬁrmicutes),-,"40°C: about 25% ofmaximal activity ofenzyme from strainW1, about 30% ofmaximal activity ofenzyme from strainW3, 75°C: about 30%of maximal activity,enzyme from strainW1 and W3",171621
+40 - 80,Bacillus sp. (in:ﬁrmicutes),-,"40°C: about 20% ofmaximal activity,80°C: about 45% ofmaximal activity",171656
+40 - 80,Caldicellulosiruptorsaccharolyticus,-,"40°C: about 30% ofmaximal activity,80°C: about 20% ofmaximal activity",171655
+40 - 80,Niallia circulans,-,-,678008
+40 - 80,Paenibacilluscampinasensis,Q2I6W5,"activity range,correlation with pH,overview",718337
+40 - 80,Saccharopolysporapathumthaniensis,E1APH5,"activity range, proﬁle,overview",717401
+40 - 80,Thermochaetoidesthermophila,G0S9G3,"40°C: about 40% ofmaximal activity,80°C: about 50% ofmaximal activity,substrate: xylan",750799
+40 - 80,,G0S9G3,"40°C: about 50% ofmaximal activity,80°C: about 50% ofmaximal activity,substrate:carboxymethylcellulose",750799
+40 - 85,Acidothermuscellulolyticus,A0LR95,"activity range,inactive below andabove, recombinantenzyme, proﬁleoverview",750497
+40 - 85,[Caldibacillus]cellulovorans,Q9L8L8,recombinantcatalytic domain,656718
+40 - 90,Bacillusamyloliquefaciens,-,"40°C: about 50% ofmaximal activity,90°C: about 85% ofmaximal activity",171646
+40 - 90,Bacillus sp. (in:ﬁrmicutes),-,activity range,717105
+40 - 90,Rhizomucor miehei,-,activity range,717022
+40 - 90,Talaromycespurpureogenus,A0A2H4RAC5,"recombinant enzyme,over 80% of maximalactivity within thisrange",749635
+45 - 55,Fusarium oxysporum,-,more than 70% ofmaximum activitywithin this range,663671
+45 - 75,Bacillus pumilus,-,at least 50% activitybetween 45 and 75°C,769914
+45 - 85,Geobacillusstearothermophilus,-,"45°C: 28% of maximalactivity, 85°C: 74% ofmaximal activity",171651
+5 - 35,Pseudoalteromonashaloplanktis,Q8RJN8,60% of maximalactivity at 5°C,656075
+50,Streptomyces coelicolor,Q8CJQ1,98% of maximumactivity,737481
+50,Thermoascusaurantiacus,-,"assay at, about 70%of maximum activity",742959
+50,Thermoascusaurantiacus var.levisporus,-,80% of maximumactivity,743330
+50 - 100,Bacillus subtilis,-,"50°C: about 50% ofmaximal activity,100°C: maximalactivity",751229
+50 - 100,Thermobiﬁda alba,-,"50°C: about 40% ofmaximal activity,100°C: about 65% ofmaximal activity",171636
+50 - 55,Alternaria mali,-,-,695683
+50 - 65,Acrophialophoranainiana,-,rapid decline ofactivity at 65°C,655620
+50 - 70,Aspergillus niger,-,activity at 50°C isabout 20% highercompared to activityat 70°C,737497
+50 - 70,Rhodothermaceaebacterium RA,A0A1V0DJ74,the enzyme retainsmore than 60% of itsmaximal activity at atemperature rangingfrom 50 to 70Â°C,775585
+50 - 70,Streptomyces lividans,-,"50°C: about 60% ofmaximal activity,70°C: about 75% ofmaximal activity",171606
+50 - 70,Thermothelomycesheterothallicus,-,activity at 50°C isabout 10% comparedto the activity at 70°C,737497
+50 - 70,,-,activity at 50°C isabout 25% comparedto the activity at 70°C,737497
+50 - 70,Thermothelomycesthermophilus,-,activity at 50°C isabout 5% comparedto the activity at 70°C,737497
+50 - 70,Trichoderma reesei,-,activity at 50°C isslightly higher thanactivity at 70°C,737497
+50 - 75,Bacillus sp. (in:ﬁrmicutes),-,"50°C: about 50% ofmaximal activity,75°C: about 60% ofmaximal activity",171621
+50 - 80,Acidothermuscellulolyticus,A0LR95,"about 60% activity at50°C, about 750%activity at 60°C, 100%activity at 70°C,about 90% activity at80°C, no activity at90°C",750497
+50 - 80,Bacillus sp. (in:ﬁrmicutes),-,"50°C: about 30% ofmaximal activity,80°C: about 20% ofmaximal activity,enzyme form strainW4",171621
+50 - 85,Thermomyceslanuginosus,-,about 50% ofmaximal activity at50°C and at 85°C,171643
+50 - 85,Thermopolysporaﬂexuosa,-,"recombinant His-tagged enzyme,inactive at 90°C",707229
+55 - 60,Pseudozyma hubeiensis,-,PhX20,707766
+60 - 100,Acidothermuscellulolyticus,-,"activity range, pH-dependent: at 100°Cactivity occurs at pH4.0-6.0, at 60°Cactivity occurs at pH5.0-8.0, overview",717123
+60 - 100,Saccharolobussolfataricus,-,-,679721
+60 - 65,Pseudozyma hubeiensis,-,PhX33,707766
+60 - 80,Bacillus sp. (in:ﬁrmicutes),-,"60°C: about 50% ofmaximal activity,80°C: about 80% ofmaximal activity",171645
+60 - 80,Thermobiﬁda fusca,Q47QL8,"more than 60% ofmaximum activity,recombinant protein,both with andwithout His-tag",737932
+60 - 90,Thermoclostridiumstercorarium,-,"60°C: about 50% ofmaximal activity,90°C: about 20% ofmaximal activity",171661
+65 - 75,Penicillium canescens,C3VEV9,more than 80% ofmaximum activity,729182
+65 - 85,Streptomyces ipomoeae,MK331807,"65°C: about 45% ofmaximal activity,85°C: about 50% ofmaximal activity",750086
+70,bacterium enrichmentculture clone Xyl8B8,H9ZGD1,65% residual activity,730872
+70,Geobacillusstearothermophilus,-,18% of maximumactivity,738190
+70 - 100,Thermotoga petrophila,A5IL00,"70°C: about 40% ofmaximal activity,100°C: about 70% ofmaximal activity",748630
+70 - 75,Thermomyceslanuginosus,-,-,171643
+70 - 85,Thermoascusaurantiacus,-,"70°C: about 70% ofmaximal activity,85°C: about 10% ofmaximal activity",171601
+75,Thermomyceslanuginosus,-,assay at,742214
+80,Geobacillusstearothermophilus,-,9% of maximumactivity,738190
+80,Halalkalibacteriumhalodurans,-,80% of maximumactivity,731022
+80,Thermomyceslanuginosus,-,rapid loss of activityabove,742165
+80 - 90,Laetiporus sulphureus,-,"activity decreasesrapidly attemperatures over80°C, but still retainsapproximately 70%relative activity at90°C",699053
+80 - 95,Saccharolobussolfataricus,Q97YG7,"80°C: about 40% ofmaximal activity,",692258
+80 - 95,,,95°C: about 40% ofmaximal activity,
+85,Thermomyceslanuginosus,-,more than 50% ofmaximum activity,646829
+85,additionalinformation,Carica papaya,Q8GTJ2,rapid decline inactivity above 45°C
+85,additionalinformation,Trichoderma reesei,-,temperature-dependence ofactivity of wild-typeand mutant enzymes
