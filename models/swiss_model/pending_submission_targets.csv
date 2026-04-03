@@ -1,0 +1,82 @@
+uniprot_accession,organism,organism_type,gh_family,input_fasta
+P84195,Gloeophyllum trabeum (Brown rot fungus) (Agaricus trabeus),fungal,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/P84195.fasta
+J7FK35,Aspergillus oryzae (Yellow koji mold),fungal,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/J7FK35.fasta
+U5HTZ3,Gloeophyllum trabeum (Brown rot fungus) (Agaricus trabeus),fungal,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/U5HTZ3.fasta
+A0A024FRL8,Irpex lacteus (Milk-white toothed polypore) (Polyporus tulipiferae),fungal,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A024FRL8.fasta
+A0A024FRX8,Irpex lacteus (Milk-white toothed polypore) (Polyporus tulipiferae),fungal,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A024FRX8.fasta
+A0A024FS83,Irpex lacteus (Milk-white toothed polypore) (Polyporus tulipiferae),fungal,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A024FS83.fasta
+A0A024FSH9,Irpex lacteus (Milk-white toothed polypore) (Polyporus tulipiferae),fungal,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A024FSH9.fasta
+A0A0K3A1E7,Xanthomonas graminis pv. arrhenatheri LMG 727,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A0K3A1E7.fasta
+A0A0K3A9X5,Xanthomonas graminis pv. poae,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A0K3A9X5.fasta
+A0A0S3G5Y8,Bacillus sp. SC-2014,bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A0S3G5Y8.fasta
+A0A286N5W6,Paenibacillus massiliensis subsp. panacisoli,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A286N5W6.fasta
+A0A2L1GH36,Caldicoprobacter sp,bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A2L1GH36.fasta
+A0A2L1GIZ3,Penicillium sp,fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A2L1GIZ3.fasta
+A0A2P0ZW24,Paenibacillus woosongensis,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A2P0ZW24.fasta
+A0A2Z5XER4,Penicillium sp,fungal,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A2Z5XER4.fasta
+A0A3Q8TLG0,Thermobifida fusca (Thermomonospora fusca),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A3Q8TLG0.fasta
+A0A411KZA6,Allostreptomyces psammosilenae,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A411KZA6.fasta
+A0A4D6DK93,Streptomyces ipomoeae,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A4D6DK93.fasta
+A0A5P6VQ80,Pseudobutyrivibrio xylanivorans,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A5P6VQ80.fasta
+A0A7M3UE38,Cladosporium tianshanense,fungal,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A7M3UE38.fasta
+A0A8D5NPL2,Streptomyces thermogriseus,bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A8D5NPL2.fasta
+A0A8H8R2B4,Lachnellula hyalina,fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A8H8R2B4.fasta
+A0A8H8S0Y0,Lachnellula occidentalis,fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A8H8S0Y0.fasta
+A0A8T9BDL5,Lachnellula arida,fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A8T9BDL5.fasta
+A0A8T9CAR3,Lachnellula suecica,fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A8T9CAR3.fasta
+A0A9P5GH10,Penicillium crustosum (Blue mold fungus),fungal,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A9P5GH10.fasta
+A0AAV9NYM1,Saxophila tyrrhenica,fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0AAV9NYM1.fasta
+A0AAW8VCD8,Bacteroides cellulosilyticus,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0AAW8VCD8.fasta
+A0ABM8UZ22,Thermobacillus xylanilyticus,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0ABM8UZ22.fasta
+A0ABM8V1H3,Thermobacillus xylanilyticus,bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0ABM8V1H3.fasta
+A0ABN7RUD1,Thermobacillus xylanilyticus,bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0ABN7RUD1.fasta
+A0ABN7S7D7,Thermobacillus xylanilyticus,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0ABN7S7D7.fasta
+A0ABN7S882,Thermobacillus xylanilyticus,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0ABN7S882.fasta
+B1A3N2,Paenibacillus curdlanolyticus,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/B1A3N2.fasta
+B3PC74,Cellvibrio japonicus (strain Ueda107) (Pseudomonas fluorescens subsp. cellulosa),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/B3PC74.fasta
+B3PIN0,Cellvibrio japonicus (strain Ueda107) (Pseudomonas fluorescens subsp. cellulosa),bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/B3PIN0.fasta
+D6CGY9,Bacteroides xylanisolvens,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/D6CGY9.fasta
+E0RXQ0,Butyrivibrio proteoclasticus (strain ATCC 51982 / DSM 14932 / B316) (Clostridium proteoclasticum),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/E0RXQ0.fasta
+E0RYH1,Butyrivibrio proteoclasticus (strain ATCC 51982 / DSM 14932 / B316) (Clostridium proteoclasticum),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/E0RYH1.fasta
+E0S1S5,Butyrivibrio proteoclasticus (strain ATCC 51982 / DSM 14932 / B316) (Clostridium proteoclasticum),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/E0S1S5.fasta
+E0S1Z8,Butyrivibrio proteoclasticus (strain ATCC 51982 / DSM 14932 / B316) (Clostridium proteoclasticum),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/E0S1Z8.fasta
+E0S2F5,Butyrivibrio proteoclasticus (strain ATCC 51982 / DSM 14932 / B316) (Clostridium proteoclasticum),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/E0S2F5.fasta
+E9S8N5,Ruminococcus albus 8,bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/E9S8N5.fasta
+E9SA77,Ruminococcus albus 8,bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/E9SA77.fasta
+E9SDY0,Ruminococcus albus 8,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/E9SDY0.fasta
+F0BDW7,Xanthomonas vesicatoria ATCC 35937,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/F0BDW7.fasta
+F2Z9G6,Paenibacillus curdlanolyticus,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/F2Z9G6.fasta
+G0YP27,Aspergillus usamii (Aspergillus shirousami),fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/G0YP27.fasta
+G0YP28,Aspergillus usamii (Aspergillus shirousami),fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/G0YP28.fasta
+G9BY19,Penicillium sp. enrichment culture clone C1,fungal,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/G9BY19.fasta
+I4DXK6,Paenibacillus curdlanolyticus,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/I4DXK6.fasta
+J7JXS8,Caldanaerobius polysaccharolyticus,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/J7JXS8.fasta
+Q0PRN5,Ruminiclostridium cellulolyticum (strain ATCC 35319 / DSM 5812 / JCM 6584 / H10) (Clostridium cellulolyticum),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q0PRN5.fasta
+Q21GI8,Saccharophagus degradans (strain 2-40 / ATCC 43961 / DSM 17024),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q21GI8.fasta
+Q21HD6,Saccharophagus degradans (strain 2-40 / ATCC 43961 / DSM 17024),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q21HD6.fasta
+Q21MW6,Saccharophagus degradans (strain 2-40 / ATCC 43961 / DSM 17024),bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q21MW6.fasta
+Q21NZ2,Saccharophagus degradans (strain 2-40 / ATCC 43961 / DSM 17024),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q21NZ2.fasta
+Q21PD4,Saccharophagus degradans (strain 2-40 / ATCC 43961 / DSM 17024),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q21PD4.fasta
+Q6GVM9,Ruminococcus albus,bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q6GVM9.fasta
+Q7Z8B8,Neocallimastix frontalis (Rumen fungus),fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q7Z8B8.fasta
+Q8GMV6,Thermopolyspora flexuosa,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q8GMV6.fasta
+Q8J1V4,Thermochaetoides thermophila,fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q8J1V4.fasta
+Q8J1V5,Thermochaetoides thermophila,fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q8J1V5.fasta
+Q9HDL7,Cochliobolus heterostrophus (Southern corn leaf blight fungus) (Bipolaris maydis),fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q9HDL7.fasta
+Q9HEN3,Curvularia spicifera,fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q9HEN3.fasta
+Q9HEN4,Curvularia spicifera,fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q9HEN4.fasta
+Q9HEN5,Cochliobolus sativus (Common root rot and spot blotch fungus) (Bipolaris sorokiniana),fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q9HEN5.fasta
+Q9HEN6,Cochliobolus sativus (Common root rot and spot blotch fungus) (Bipolaris sorokiniana),fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q9HEN6.fasta
+Q9HEN7,Cochliobolus heterostrophus (Southern corn leaf blight fungus) (Bipolaris maydis),fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q9HEN7.fasta
+Q9HEP2,Bipolaris sorghicola,fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q9HEP2.fasta
+Q9HEP3,Bipolaris sorghicola,fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q9HEP3.fasta
+Q9RQB7,Xylanimonas pachnodae,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q9RQB7.fasta
+Q9RQB8,Xylanimonas pachnodae,bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/Q9RQB8.fasta
+U5HTS3,Ophiostoma piliferum (Ceratocystis pilifera),fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/U5HTS3.fasta
+U5HU68,Coprinopsis cinerea (Inky cap fungus) (Hormographiella aspergillata),fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/U5HU68.fasta
+W5VXL4,Neurospora sitophila (Chrysonilia sitophila),fungal,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/W5VXL4.fasta
+A0A0K8J318,Herbinix luporum,bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A0K8J318.fasta
+A0A6M5Z4H3,Frigoriglobus tundricola,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A6M5Z4H3.fasta
+A0A7U4XSS7,Clostridium sporogenes,bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/A0A7U4XSS7.fasta
+F0BDW4,Xanthomonas vesicatoria ATCC 35937,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/F0BDW4.fasta
+K9TUC6,Chroococcidiopsis thermalis (strain PCC 7203),bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/inputs/K9TUC6.fasta
