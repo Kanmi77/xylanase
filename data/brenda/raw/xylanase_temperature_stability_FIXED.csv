@@ -1,0 +1,485 @@
+TEMPERATURE,ORGANISM,UNIPROT,COMMENTARY,LITERATURE
+,TEMPERATURESTABILITY,ORGANISM,UNIPROT,COMMENTARY
+0 - 45,Pomacea insularus,-,"pH 6.9, 10 min, stable",171584
+0 - 50,Penicillium citrinum,-,"the retention of 50% of its maximum activity is observedat 0°C, retains 65% of its activity after 1-4 h incubation at50°C",681711
+10,Sphingobacterium sp.TN19,D8L2Y2,"puriﬁed recombinant enzyme, pH 6.5, 40% remainingactivity",707250
+100,Bacillus licheniformis,-,"partially puriﬁed extracellular xylanase, inactivation after120 min",752334
+100,bacterium enrichmentculture clone Xyl8B8,H9ZGD1,"30 min, 28% residual activity",730872
+100,Halalkalibacteriumhalodurans,-,"3 h, no loss of activity",731022
+100,Lentinula edodes,-,"1 h, puriﬁed Xyl16-3, 50% remaining activity",655228
+100,Saccharolobussolfataricus,-,half-life of 47 min at 100°C,679721
+100,Thermoclostridiumstercorarium,-,"pH 7.0, 10 min, about 40% loss of activity. pH 5.5, 10 min,complete inactivation",171657
+100,,-,"10 min, retains 50% of its activity at pH 6.1, retains 58% ofits activity at pH 6.4, completly inactivated at pH 5.8",171661
+100,Thermomonospora sp.,-,half-life 15 min,654413
+100,Thermomyces dupontii,-,half-life 60 min,741629
+100,,-,half-life 1 h,741630
+100,[Caldibacillus]cellulovorans,Q9L8L8,15% remaining activity of recombinant N-terminal +catalytic domains,656718
+110,Aspergillus fumigatus,-,60% of XylF2 activity is retained at 110°C,682991
+20,Sphingobacterium sp.TN19,D8L2Y2,"puriﬁed recombinant enzyme, pH 6.5, 65% remainingactivity",707250
+20 - 50,Demequina sp. JK4,B9VSZ3,"puriﬁed recombinant enzyme, stable",709491
+20 - 60,Lentinula edodes,-,"more than 50% of the optimal xylanase activity is retainedwhen the temperature is increased from 20 to 60°C after240 min, at 40°C the xylanase maintains 93% of theoptimal activity after a 240 min reaction, the enzymeretains 78.12% and 41.64% of the maximum activity at 50and 60°C, respectively. at temperatures up to 60°C,xylanase activity decreases sharply with time",681351
+20 - 70,Acidothermuscellulolyticus,A0LR95,"puriﬁed recombinant enzyme, 30 min, completely stableat 20-50°C, 90% activity is retained at 60°C, and 70% at70°C, inactivation at 80°C",750497
+20 - 70,Thermobiﬁda alba,-,"1 h, stable",171636
+20 - 80,Acidothermuscellulolyticus,A0LR95,"the enzyme remains completely stable from 20 to 50°C,while about 90 and 70% of the activity is retained at 60and 70°C after 30 min. The melting temperature is 80°C",750497
+25,Euphausia superba,-,"stable up to for at least 10 min, rapid inactivation above,isozymes A and B",655257
+30,Bacillus sp. (in:ﬁrmicutes),-,stable for up to 72 h,667012
+30,Cladosporium sp.,A0A346PXS9,"3 h, 50% loss of activity",750679
+30,,A0A346PXS9,"puriﬁed recombinant enzyme, 3 h, loss of 50% activity",750679
+30,Cutaneotrichosporoncutaneum,-,"7 days, 55% loss of activity",171625
+30,Penicilliumgriseofulvum,-,"stable at 30°C for 60 min, with more than 95% of theactivity remaining",677745
+30,,-,"puriﬁed recombinant PgXynB is stable at 30 °C, pH 4.5 for240 min, with more than 85% of the activity remaining",707567
+30,Talaromycesfuniculosus,Q9HFH0,"stable at 30°C for 60 min, with more than 95% of theactivity remaining",677745
+30,Thermochaetoidesthermophila,Q8J1V6,"puriﬁed recombinant enzyme expressed from gene withintron, half-life is 1959 min",709894
+30,unculturedmicroorganism,E2DQY5,"xylan as substrate, remains stable after treatment for 1 h",717134
+30 - 40,Bacillus cereus,-,"the enzyme displays thermostability at 30°C and 40°Cwith 48.56% and 45.97% remaining activity after 180 min,respectively. At 50 °C, the enzyme loses about 46% of itsactivity after 40 min",770012
+30 - 45,Aspergillus tubingensis,-,"3 h, completely stable",707209
+30 - 50,Aspergillus ﬂavus,B8NJ86,"puriﬁed native, stable at",750988
+30 - 50,,B8NJ86,"puriﬁed native, 30% activity remaining",750988
+30 - 50,Bacillus sp. (in:ﬁrmicutes),-,"puriﬁed enzyme, highly stable at",717091
+30 - 50,Sphingobacterium sp.TN19,D8L2Y2,"puriﬁed recombinant enzyme, pH 6.5, over 80% remainingactivity, above 50°C the enzyme activity decreases rapidlyafter 10 min preincubation",707250
+30 - 50,unculturedmicroorganism,E2DQY5,"puriﬁed recombinant RuCelA, 1 h, stable",717134
+30 - 55,Neocallimastixpatriciarum,A8TGA1,"at temperatures below 30°C and above 55°C, enzymeactivity is less than 50% of that at the optimaltemperature",695791
+30 - 70,Streptomycesthermocyaneoviolaceus,Q9RMM4,"puriﬁed enzyme, 1 h, 65% activity remaining at 70°C,completely stable at 30-60°C, overview",707809
+35,Cladosporium sp.,A0A346PXS9,"1 h, 50% loss of activity",750679
+35,,A0A346PXS9,"puriﬁed recombinant enzyme, 1 h, loss of 50% activity",750679
+35,Cutaneotrichosporoncutaneum,-,"pH 5.0, 10 min, stable at or below",171625
+35,Termitomycesclypeatus,-,"1 h, stable",171630
+35,Trametes hirsuta,-,"10 min, stable",171629
+35 - 55,Thermothelomycesthermophilus,-,-,742765
+37,Massilia sp. RBM26,A0A0S2I9J6,"1 h, more than 96% residual activity",738866
+37,Streptomyces lividans,-,"pH 6.0, 24 h, stable",171606
+37 - 50,Bacillus pumilus,-,"all isozymic forms show 100% activity at 37°C after 6 h.After 3 h, isoforms X-I, X-II, X-III, X-IV, and X-V retainnearly 86, 85, 85, 82, and 80% residual activity at 45°Cand activity is reduced to 38-42% at 50°C",769914
+Apr-50,Streptomyces halstedii,-,"1 h, pH 6.3, stable",171639
+40,Aspergillus luchuensis,P33557,"mutant T64S, 30 min, 77% resiudal activity",739002
+40,Aspergillus niger,-,"15 min, signiﬁcant inactivation",171633
+40,,-,"puriﬁed native enzyme, pH 7.0, 120 min, 80% activityremaining",710686
+40,Bacillus licheniformis,-,X-I and X-II are 100% stable after 1 h at 40°C,677623
+40,Bacillus pumilus,-,"pH 5.0 or pH 8.5, 30 min, enzyme retains more than 85%of its activity",171624
+40,Bacillus sp. (in:ﬁrmicutes),-,"pH 6.0, 10 min, enzyme component I from strain W1, stableup to",171595
+40,Cladosporium sp.,A0A346PXS9,"20-30 min, complete inactivation",750679
+40,,A0A346PXS9,"puriﬁed recombinant enzyme, 20-30 min, completeinactivation",750679
+40,Duganella sp. PAMC27433,-,the half-life of the enzyme at 40°C is approximately 30min,769515
+40,Luteimicrobiumxylanilyticum,A0A286LNP2,"C-terminal truncated mutant, loss of activity above 40°C",745089
+40,Malbranchea pulchella,-,"1 h, xylanase A is stable, 25% loss of activity of xylanase B",171587
+40,Naganishia albida,-,"5 min, stable",171631
+40,Penicillium citrinum,Q2PGY1,stable up to,665763
+40,,B1B533,"remains stable up to 40°C, loses its activity at 80°C",699042
+40,,Q2PGY1,"puriﬁed recombinant extracellular deglycosylated enzyme,6 h, over 80% activity remains",752115
+40,Pseudopedobactersaltans,F0S6Y3,"puriﬁed recombinant enzyme, pH 6.0, 90 min, stable up to",752084
+40,Schizophyllumcommune,-,stable up to,664785
+40,Streptomycesolivaceoviridis,-,"1 h, inactivation above",171659
+40,Streptomyces sp.,F8WSY7,stable up to,729010
+40,Talaromycespurpureogenus,A0A2H4RAC5,"puriﬁed recombinant enzyme, pH 6.5, 24 h, completelystable",749635
+40,Termitomycesclypeatus,-,"4 h, 65% loss of activity",171630
+40,Thermochaetoidesthermophila,Q8J1V6,"puriﬁed recombinant enzyme expressed from gene withintron, half-life is 959 min",709894
+40,Trichoderma harzianum,-,"1 h, 20000 Da enzyme form is stable",171613
+40,Trichodermainhamatum,-,2.2 h at 40°C and 2 min at 50°C,695668
+40,Trichoderma reesei,-,"20 h, 10% loss of activity of xylanase I, xylanase II is stable",136301
+40,unculturedmicroorganism,E2DQY5,"xylan as substrate, remains stable after treatment for 1 h",717134
+40 - 50,Pediococcusacidilactici,-,"puriﬁed extracellular enzyme, 2 h, over 80% activityremaining",750814
+40 - 60,Evansstolkia leycettana,-,"at 60 C, the enzyme gradually loses activity, exhibitingabout half activity after 3 h. At 50 C, the enzyme is fullystable for 2 h and then the activity starts to decline. At 40C, the enzyme retains activity for 3 h, but upon a longerincubation, the activity is reduced",774449
+40 - 60,Marinimicrobium sp.LS-A18,A0A411LPM1,"the enzyme activity does not change after incubation at40°C for 2 h, however, it signiﬁcantly decreases afterincubation at 50°C or 60°C. The enzyme retains 14.8% and2.8% of its activity after incubation at 50°C and 60°C for30 min, respectively",768777
+40 - 60,Trichoderma sp.,-,"puriﬁed isozyme EX1, stable at temperatures below 40°C,retains 50% activity after incubation at 50°C for 30 h, butit loses its activity rapidly at 60°C for 1 h",707762
+43,Streptomyces lividans,-,"pH 6.0, 24 h, about 20% loss of activity",171606
+45,Aspergillus niger,I3QKR9,"1 h, the wild-type enzyme almost completely loses itsactivity",751243
+45,Aspergillus ochraceus,-,"37.5% loss of activity after 90 min, stable up to 30 min",171654
+45,Aureobasidiummelanogenum,-,the enzyme shows a half-life of 169 h at 45 °C and pH 4.5.Under these conditions and in the presence of Ca2+ (10mM) the enzyme is even more stable (half-life of 231 h),776226
+45,Bacillus pumilus,Q5EFR9,"puriﬁed recombinant enzyme, 2 h, stable",717410
+45,Cellulomonas uda,-,"1 h, 5% loss of activity",136300
+45,Dickeya chrysanthemi,-,"instable above, loss of secondary structure and activity",655834
+45,Euphausia superba,-,"complete loss of activity within 5 min, isozymes A and B",655257
+45,Penicillium citrinum,Q2PGY1,"puriﬁed recombinant extracellular deglycosylated enzyme,70% activity remains after 30 min, 17% after 3 h, and 6%after 5 h",752115
+45,Penicillium occitanis(nom. inval.),-,"puriﬁed enzyme, 1 h, 91% activity remaining",718338
+45,Penicilliumsclerotiorum,-,half-life of both isozymes is about 210 min,707211
+45,Pomacea maculata,Q7Z1V6,"recombinant EGXA and wild-type EGX lose activity quicklywhen Cl- is at a low concentration. In the presence of 50mM Cl-, the rtEGXA(cid:0)s activity loss is only 15% after 5 hincubation at 45°C. Wild-type EGX loses activity at a fasterspeed than the recombinant EGXA, in both 0.5 mM Cl- and50 mM Cl-. Cellulose-binding domain increases thermalstability of the recombinant enzyme",695295
+45,Pseudopedobactersaltans,F0S6Y3,"puriﬁed recombinant enzyme, pH 6.0, 90 min, loss of 50%activity",752084
+45,Talaromycesfuniculosus,Q8J0K5,stable for 60 min,664181
+45,Thermochaetoidesthermophila,Q8J1V6,"puriﬁed recombinant enzyme expressed from gene withintron, 10 min, 100% activity remaining",709894
+45,Trametes hirsuta,-,"30 min, stable up to",171629
+45,Trichodermalongibrachiatum,-,"pH 5.0, 4.5 h, 50% loss of activity",171647
+45,Trichoderma viride,-,rapid loss of activity above,171623
+45 - 50,uncultured bacterium,-,the enzyme remains stable when subjected to heattreatments of 45 and 50 °C for up to 1 h,775836
+45 - 55,Alternaria mali,-,slight decrease in xylanase activity between 45°C (93.4%)and 55°C (97.7%). Enzyme activity is rapidly reduced to,695683
+45 - 55,,,"59.3% when the temperature is at 60°C, and there isnegligible activity (5.4%) above 80°C",
+45 - 55,Kitasatospora sp.,"A0A3T0YV67,A0A3T0YV60","puriﬁed recombinant enzyme, pH 5.0, stable for 120 min",750084
+45 - 60,Nesterenkoniaxinjiangensis,D1KJJ7,"puriﬁed enzyme, pH 7.0, 60 min, 80% activity remaining",707216
+48,Aspergillus niger,-,"pH 5.5-5.6, half-life: 40 h",171598
+25-May,Cladosporium sp.,A0A346PXS9,"puriﬁed recombinant enzyme, 3 h, over 90% activityremaining",750679
+50,Acrophialophoranainiana,-,half-life 120 h,655620
+50,Albiﬁmbria verrucaria,-,"pH 5, half-life: 16 min",171652
+50,Aspergillus cf. nigerBCC14405,Q6QA21,"30 min, 60% residual activity",665441
+50,Aspergillus ﬂavus,B8NKE9,"puriﬁed extracellular enzyme, stable up to",752113
+50,Aspergillus giganteus,-,"xylanase I, half-life 22.5 min, xylanase II, half-life 17.5 min",665016
+50,Aspergillus niger,-,stable for at least 90 min,664489
+50,,-,"puriﬁed native enzyme, pH 5.0-7.0, 86% residual activityafter 45 min, the crude enzyme retains only 6% of theinitial activity",710686
+50,Aspergillus ochraceus,-,87.5% loss of activity after 90 min,171654
+50,Aspergillus sulphureus,Q3S401,"puriﬁed recombinant enzyme, half-life is 30 min",707197
+50,Aspergillus tubingensis,-,"after 1 h 85.9% activity remaining, after 3 h 65.4% activityremaining",707209
+50,Bacillusamyloliquefaciens,-,stable for several days,171646
+50,Bacillus licheniformis,-,X-I retains more than 90% of hydrolytic activity after 1 h ofheating at 50°C,677623
+50,,B5SYI8,"is stable at temperatures up to 50°C. At 55°C, more thanhalf of the activity is lost, and no activity remains at 60°C",697502
+50,,-,"partially puriﬁed extracellular xylanase, completely stablefor 30 min, loss of 50% activity after 120 min",752334
+50,Bacillus pumilus,-,half-life: 30 min,171586
+50,,-,"30 min, 50% loss of activity",171624
+50,Bacillus sp. (in:ﬁrmicutes),-,"pH 6.0, 10 min, enzyme component I from strain W2, stableup to",171595
+50,,Q84F19,"3 h, stable",664690
+50,,-,"puriﬁed native enzyme, stable",708851
+50,Bacillus subtilis,B9ZZN9,the half-life of the recombinant protein at 50°C is 65 minwhereas it is approximately 25 min at 60°C. The enzyme isnot stable at 70°C and it loses almost all of its activityeven 5 min after incubation,699055
+50,Cellulomonas uda,-,"1 h, 24% loss of activity",136300
+50,Cellulosimicrobiumcellulans,T2M1V1,"30 min, 50% residual activity",731029
+50,Cellulosimicrobium sp.,B2BZ80,stable below for at least 1 h,737466
+50,Cohnella sp. AR92,-,"isoforms Xyn10A and CoXyn10C are efficient at moderatetemperatures; however, their half-life time as a function ofthe activity at 50°C is of 120 min and 60 min with a",768810
+50,,"residual activity of 48% and 52%, respectively. IsoformXyn11A shows a loss of approximately 60% of its activityafter 20 min of incubation at 50°C",,
+50,Cutaneotrichosporoncutaneum,-,"10 min, complete loss of activity",171625
+50,Fusarium commune,"A0A0F7MX47,A0A0F7MYK0,A0A0F7N1T1","1 h, more than 40% resiudal activity",738135
+50,Malbranchea pulchella,-,"pH 6.7, 30 min, stable",171587
+50,Melanocarpusalbomyces,-,stable,738730
+50,Melanocarpusalbomyces,-,"pH 5-10, stable for 24 h, both isoforms xylanase IA andxylanase IIIA",738730
+50,Microcella alkaliphila,A0A0U5B5Z4,half-life 48 h,738192
+50,Naganishia albida,-,"10 min, 5% loss of activity",171631
+50,Naganishia albida,-,"pH 5.4, 0.1 M NaCl, half-life: 7 min",171585
+50,Paecilomyces sp.'thermophila',D1G4K3,"recombinant His-tagged enzyme, 30 min, over 90%activity remaining",707603
+50,Paenibacilluscurdlanolyticus,B1A3N2,-,699498
+50,Penicillium occitanis(nom. inval.),-,"puriﬁed enzyme, 1 h, 70% activity remaining",718338
+50,Penicilliumsclerotiorum,-,half-life of both isozymes is about 80 min,707211
+50,Phanerodontiachrysosporium,-,"isoform xynB, stable up to",664683
+50,Pseudopedobactersaltans,F0S6Y3,"puriﬁed recombinant enzyme, pH 6.0, 90 min, loss of 70%activity",752084
+50,Saccharopolysporapathumthaniensis,E1APH5,"puriﬁed enzyme, 2 h, stable",717401
+50,Schizophyllumcommune,P35809,"5 min, 40% residual activity",729654
+50,Staphylococcus sp.,-,half-life: 240 min,171641
+50,Streptomycescoelicolor,Q8CJQ1,"1 h, 90% residual activity",737481
+50,Streptomycesgriseorubens,-,"1 h, 60% residual activity",745416
+50,Streptomyces lividans,-,"pH 6.0, 24 h, about 80% loss of activity",171606
+50,Streptomyces sp.,-,Xyl1-Xyl3 are stable for 16 h,655355
+50,Streptomyces sp.,F7J663,"stable up to, for 1 h",730370
+50,C6FX34,"puriﬁed recombinant enzyme, 1 h, 95% remaining activity,rapid decrease in activity above 60°C",707196,
+50,Talaromycesfuniculosus,Q8J0K5,"5 min, 25% residual activity",664181
+50,Talaromyces pinophilus,-,isozyme III is stable below,655807
+50,Talaromyces pinophilus,A0A6N4SL16,the enzyme is stable at temperatures of up to 50°C during24 h of incubation at pH 4.0,768726
+50,Thermoascusaurantiacus,-,"12 weeks, more than 50% residual activity",742421
+50,Thermoascusaurantiacus,Thermoascusaurantiacus var.levisporus,-,"90 min, 70% residual activity"
+50,Thermoascusaurantiacus,Thermochaetoidesthermophila,Q8J1V6,"puriﬁed recombinant enzyme expressed from gene withintron, half-life is 176 min"
+50,Thermoascusaurantiacus,,-,"stable for 24 h, xylanase I, xylanase II"
+50,Thermoascusaurantiacus,Thermomyces dupontii,-,stable for 7 days
+50,Thermoascusaurantiacus,,-,"pH 7-8, stable for 7 days"
+50,Thermoascusaurantiacus,Thermomyceslanuginosus,-,"24 h, 50% residual activity"
+50,Thermoascusaurantiacus,,-,"pH 6.5, 51 h, 100% residual activity"
+50,Thermoascusaurantiacus,,O43097,"t1/2: 693 min, fusion enzyme (EG-M-Xyn) ofendoglucanase (cellulase) from Teleogryllus emma andxylanase from Thermomyces lanuginosus, xylanaseactivity"
+50,Thermoascusaurantiacus,,O43097,"t1/2: 173 min, fusion enzyme (EG-M-Xyn) ofendoglucanase (cellulase) from Teleogryllus emma andxylanase from Thermomyces lanuginosus, endoglucanaseactivity"
+50,Thermoascusaurantiacus,Thermothelomycesheterothallicus,-,"pH 5.0, 24 h, 80% remaining activity"
+50,Thermoascusaurantiacus,Trametes hirsuta,-,"30 min, stable"
+50,Thermoascusaurantiacus,Trichoderma harzianum,-,"1 h, 29000 Da enzyme form is stable"
+50,Thermoascusaurantiacus,Trichoderma reesei,-,"20 h, 27% loss of activity of xylanase I and II"
+50,Thermoascusaurantiacus,,B2CNY5,"puriﬁed recombinant enzyme, 30 min, 94% activityremaining"
+50,Thermoascusaurantiacus,,B2CNY5,over 85% activity remaining after 30 min
+50,Thermoascusaurantiacus,,-,"puriﬁed enzyme, 30 min, loss of less that 10% activity"
+50,Thermoascusaurantiacus,unculturedmicroorganism,E2DQY5,"xylan as substrate, remains stable after treatment for 1 h"
+50 - 60,Acetivibriothermocellus,-,"the enzyme activity remains stable after 16 h at 50°C. At60°C, the enzyme shows less than 40% activity after 3 h",750432
+50 - 60,Rhodothermaceaebacterium RA,A0A1V0DJ74,"the enzyme shows a half-life of 1 h at 60Â°C. When thepre-incubation is carried out at 50Â°C, the enzyme retains80% of its maximal activity for 5 h. The protein is unstableat 70Â°C",775585
+50 - 60,Streptomyces fradiae,A7TVD4,remains stable at 50°C after incubation for 30 min at pH7.8. More than 40% of the activity is retained after treatingthe enzyme at 60°C for 5 min,699489
+50 - 60,Trichoderma sp.,-,"puriﬁed EX2, 48 h, 50% activity remaining",707762
+50 - 65,Aspergillus fumigatus,-,"the enzyme is stable at 50 and 55Â°C, while activitydecreases to 60% when incubated at 60Â°C for 6 h and19% after 15 min at 65Â°C. The enzyme has a meltingtemperature of 63.3Â°C",769929
+50 - 65,Streptomyces cyaneus,-,"the half-lives of xylanase at 50°C and 65°C areapproximately 200 and 50 min, respectively",678757
+50 - 80,Streptomyces sp. S9,B4XVN1,retains more than 65% of the maximum activity,695801
+50 - 85,Priestia megaterium,-,remains stable at 50°C for 20 min and at 85°C for 7 min,681810
+52 - 65,Bacillus subtilis,-,the enzyme activity decreases above 52°C showing noresidual activity above 65°C when pre-incubated for 2 min,770731
+55,Acrophialophoranainiana,-,puriﬁed enzyme is stable for 44 h,656332
+55,Aspergillus caespitosus,-,"isoform xyl I, half-life 27.3 min, xyl II, half-life above 90 min",666701
+55,Aspergillus niger,I3QKR9,"1 h, mutant enzyme T205C/A52C retains more than 80%of its initial activity",751243
+55,Bacillusamyloliquefaciens,-,"pH 6.8, 15 min, stable up to",171646
+55,Bacillus sp. (in:ﬁrmicutes),-,"pH 5.3, stable for 3 days",171656
+55,,-,"30 min, 70% loss of activity, recombinant enzyme",171650
+55,,-,sharp decline in activity above at pH 6.0,654996
+55,Cellulomonas uda,-,half-life,136300
+55,Fusarium proliferatum,-,"fully stable up to, 30 min, pH 5.0",657201
+55,Kocuria sp. Mn22,B8XY24,"puriﬁed recombinant enzyme, 60 min, 70% activityremaining",709503
+55,Niallia circulans,P09850,"the wild type enzyme retains 34% residual activity after 5min at 55°C, while mutant enzyme R49N retains 43%residual activity after 5 min at 55°C",769727
+55,Paenibacillus sp.,A0A075EEX4,"4 h, 65% residual activity",730187
+55,Penicilliumsclerotiorum,-,half-life of both isozymes is 50 min,707211
+55,Ruminococcusﬂavefaciens,-,"half-life of the catalytic domain XYLA-A1 is 20 min, half-life of the catalytic domain XYLA-C2 is 50 min",171648
+55,Staphylococcus sp.,-,half-life: 30 min,171641
+55,Streptomyces sp.,-,"pH 5.5, 30 min, stable","171,592,171,594"
+55,,-,"10 min, stable up to",171619
+55,,-,"30 min, stable",171660
+55,Talaromyces pinophilus,-,isozymes I and II are stable below,655807
+55,Termitomycesaurantiacus,-,"10 days, about 90% residual activity",742400
+55,Thermomyceslanuginosus,-,"30 min, stable up to",171617
+55,,-,"10 days, about 90% residual activity",742400
+55,,-,"pH 10, stable for 5 h",646829
+55,Trichoderma reesei,LC132960,"30 min, almost complete loss of activity for wild-type, 9%residual activity for mutant Q286A/N340Y",744124
+55,unculturedmicroorganism,I6M1A2,"2 h, 90% residual activity",731026
+55 - 85,Bacillus subtilis,-,"30 min, enzyme retains more than 70% of its initial activity",751229
+55.2,Teredinibacter turnerae,C5BJ89,melting temperature of apoenzyme,749504
+56,Aspergillus nidulans,-,"9 h, more than 90% of maximal activity remains",171658
+57.3,Teredinibacter turnerae,C5BJ89,apoenzyme with xylan,749504
+58.9,Talaromyces pinophilus,W8VR85,"wild-type, melting temperature",737727
+60,Acrophialophoranainiana,-,half-life 2 h,655620
+60,-,puriﬁed enzyme is stable for 1 h,656332,
+60,Alicyclobacillus sp.,D3VWB5,"puriﬁed recombinant XynA4, 1 h, pH 7.0, over 90% activityremaining, half-life is 394 min",717947
+60,Aspergillus ﬂavus,B8NJ86,"puriﬁed native, inactivation",750988
+60,Aspergillus fumigatus,-,"30 min, 40% residual activity",737935
+60,Aspergillus giganteus,-,"xylanase I, half-life 1.5 min, xylanase II, half-life 1.5 min",665016
+60,Aspergillus nidulans,-,half-life: 26 min,171658
+60,Aspergillus niger,-,half-life of 115 min,664489
+60,Aspergillus versicolor,-,half-life 1.7 min,666703
+60,Bacillus licheniformis,-,X-II retains more than 90% of hydrolytic activity after 1 hof heating at 60°C,677623
+60,Bacillus licheniformis,-,"partially puriﬁed extracellular xylanase, loss of 10% activityafter 60 min, loss of 55% activity after 120 min",752334
+60,Bacillus pumilus,-,complete inactivation in 15 min,"171,586,171,624"
+60,Bacillus pumilus,Q5EFR9,"puriﬁed recombinant enzyme, 1 h, over 50% activityremaining",717410
+60,Bacillus sp. (in:ﬁrmicutes),-,"pH 5.3, 93% loss of activity after 1 day",171656
+60,Bacillus sp. (in:ﬁrmicutes),-,stable,171645
+60,Bacillus sp. (in:ﬁrmicutes),-,stable up to,171621
+60,Bacillus sp. (in:ﬁrmicutes),-,"pH 6.0, 10 min, enzyme component II from strain W1 andW2, stable up to",171595
+60,Bacillus sp. (in:ﬁrmicutes),-,"puriﬁed enzyme, 5 h, 95% activity remaining",717105
+60,Bacillus subtilis,-,"50% ﬁnal residual activity in presence of 0.5 M trehaloseas well as 8fold increased half-life of XylII and 2.5fold ofXylI, inactivation in absence of trehalose",655381
+60,Bacillus subtilis,-,the wild type enzyme completely loses activity afterpreincubation at 60°C,677993
+60,Bacillus subtilis,Q45VU2,"glycosylated recombinant enzyme, 30 h, 50% remainingactivity. Unglycosylated native enzyme, 12 h, 50% activityremaining",707810
+60,Bispora sp. MEY-1,D6MYS9,"puriﬁed recombinant enzyme, 60 min, pH 3.0, 98%remaining activity",707258
+60,Cellulomonas uda,-,half-life: 10 min,136300
+60,Demequina sp. JK4,B9VSZ3,"puriﬁed recombinant enzyme, 80% activity remaining",709491
+60,Fusarium proliferatum,-,loss of 78% activity after 30 min at pH 5.0,657201
+60,Irpex lacteus,-,"pH 5.0, 10 min, stable up to",171612
+60,Kocuria sp. Mn22,B8XY24,"puriﬁed recombinant enzyme, 60 min, 30% activityremaining",709503
+60,Laetiporus sulphureus,-,retains approximately 97% of its relative activity followingincubation for 4 h,699053
+60,Luteimicrobiumxylanilyticum,A0A286LNP2,"1 h, 80% residual activity",745089
+60,Melanocarpusalbomyces,-,"isozyme IIb shows a half-life of 94.5 min, isozyme IId of85.6 min, isozyme Ia of 164.3 min",654986
+60,Mycothermusthermophilus,-,"45 min, xylanase 2 completely loses activity, xylanase 1retains 50% of its activity",738127
+60,Parageobacillusthermantarcticus,-,stable for 24 h,657331
+60,Pediococcusacidilactici,-,"puriﬁed extracellular enzyme, 2 h, loss of 80% activity,half-life is 20 min",750814
+60,Penicillium canescens,C3VEV9,half-life 7 h,729182
+60,Penicillium occitanis(nom. inval.),-,"puriﬁed enzyme, 1 h, 50% activity remaining",718338
+60,Phanerodontiachrysosporium,-,"isoforms xynA, xynC, stable for 30 min",664683
+60,Pseudopedobactersaltans,F0S6Y3,"puriﬁed recombinant enzyme, pH 6.0, 90 min, inactivation",752084
+60,Pseudozymahubeiensis,-,"puriﬁed PhX20, half-life is 10 min",707766
+60,Saccharopolysporapathumthaniensis,E1APH5,"puriﬁed enzyme, half-life is 180 min",717401
+60,Staphylococcus sp.,-,half-life 10 min,171641
+60,Streptomycescoelicolor,Q8CJQ1,"1 h, 16% residual activity",737481
+60,Streptomyces sp.,-,"half-lives: Xyl1 10 min, Xyl2 30 min, Xyl3 70 min",655355
+60,Talaromycespurpureogenus,A0A2H4RAC5,"puriﬁed recombinant enzyme, pH 6.5, 60 min, stable",749635
+60,Termitomycesclypeatus,-,stable up to,171630
+60,Thermoascusaurantiacus,-,"97 h, retains full activity",171601
+60,Thermoascusaurantiacus,-,retains full activity for 97 h,171601
+60,Thermoascusaurantiacus,-,half-life 4 days,742421
+60,Thermochaetoidesthermophila,Q8J1V6,"puriﬁed recombinant enzyme expressed from gene withintron, half-life is 72 min",709894
+60,Thermochaetoidesthermophila,G0S9G3,"120 min, enzyme retains about 85% of its initial activity,xylanase ativity",750799
+60,Thermochaetoidesthermophila,G0S9G3,"120 min, enzyme retains more than 80% of its initialactivity, endoglucanase activity",750799
+60,Thermochaetoidesthermophila,G0S9G3,"puriﬁed recombinant His-tagged enzyme, 90% activityremaining after 120 min",750799
+60,Thermoclostridiumstercorarium subsp.thermolacticum,-,"4 days, 10% loss of activity",171649
+60,Thermomyceslanuginosus,-,stable for more than 48 h,171643
+60,Thermomyceslanuginosus,O43097,"96 h, 80% residual activity",731025
+60,Thermomyceslanuginosus,-,stable,737547
+60,Thermomyceslanuginosus,-,"4 h, 50% residual activity",742214
+60,Thermomyceslanuginosus,-,"pH 5-9, stable for 5 h",646829
+60,Thermomyceslanuginosus,O43097,"t1/2: 347 min, fusion enzyme (EG-M-Xyn) ofendoglucanase (cellulase) from Teleogryllus emma and",750783
+60,Thermomyceslanuginosus,,"xylanase from Thermomyces lanuginosus, xylanaseactivity",
+60,Thermomyceslanuginosus,O43097,"t1/2: 16 min, fusion enzyme (EG-M-Xyn) of endoglucanase(cellulase) from Teleogryllus emma and xylanase fromThermomyces lanuginosus, endoglucanase activity",
+60,Thermomyceslanuginosus,Thermothelomycesheterothallicus,half-life 150 min,
+60,Thermomyceslanuginosus,Thermotoga maritima,"recombinant mutant hybrid enzyme, 30 min, over 85%activity remaining",
+60,Thermomyceslanuginosus,Trichoderma reesei,"20 h, 84% loss of activity of xylanase I, 76% loss of activityof xylanase II",
+60,Thermomyceslanuginosus,B2CNY5,over 65% activity remaining after 30 min,
+60,Thermomyceslanuginosus,,"puriﬁed enzyme, 30 min, loss of about 70% activity",
+60,Thermomyceslanuginosus,,"recombinant mutant hybrid enzyme, 30 min, over 85%activity remaining",
+60,Thermomyceslanuginosus,LC132960,"30 min, 51% residual activity, mutant Q286A/N340Y",
+60,Thermomyceslanuginosus,Trichoderma virens,"10 min, complete loss of activity",
+60,Thermomyceslanuginosus,B2LWN3,"Xyn11 in its apo form, is not subject to thermal inactivationup to 60°C",
+60,Thermomyceslanuginosus,E2DQY5,"xylan as substrate, remains 60% activity after treatmentfor 1 h",
+60,Thermomyceslanuginosus,E2DQY5,"puriﬁed recombinant RuCelA, 1 h, 60% activity remaining","puriﬁed recombinant RuCelA, 1 h, 60% activity remaining"
+60 - 65,Trichoderma reesei,-,"marginally stable at temperatures above 60°C, with half-life of about 0.5 min at 65°C",680210
+60 - 70,Actinomadura sp.,-,"puriﬁed recombinant XynS14s, 12 h, completely stable",717886
+60 - 70,Halalkalibacteriumhalodurans,-,"stable up to 60°C, retains 30% of original activity afterincubation at 70°C",681342
+60 - 70,[Caldibacillus]cellulovorans,Q9L8L8,thermostability of the recombinant catalytic domain isdecreased to 60°C in absence and increased to 70°C inpresence of the recombinant N-terminal thermostabilizingdomain D1,656718
+60 - 80,Streptomyces sp. T7,-,"the enzyme shows excellent thermostability, retainingover 90% of the residual activity after 60 min of incubationat 60°C. Furthermore, the enzyme retains more than 40%activity when incubated at 80°C for 60 min",774465
+60.1,Teredinibacter turnerae,C5BJ89,apoenzyme with xylohexaose,749504
+64.6,Talaromyces pinophilus,W8VR85,"mutant D65P/N66G, melting temperature",737727
+65,Alicyclobacillus sp.,D3VWB5,"puriﬁed recombinant XynA4, half-life is 17 min",717947
+65,Aspergillus fumigatus,-,"1 h, 50% residual activity",742216
+65,Geobacillus sp. WBI,B5M201,"1 h, pH 10, 100% residual activity",738547
+65,Geobacillusstearothermophilus,-,"pH 7.0, 10 h, stable, pH 9.0, half-life is 6 h",171651
+65,Malbrancheacinnamomea,-,"1 h, 43% residual activity",741623
+65,Neocallimastixpatriciarum,Q9UV68,"20 min, wild-type, 70% loss of activity, mutantN38Y/F52W/G56Y/G201L, about 10% loss of activity",744133
+65,Paenibacillus sp.,-,"puriﬁed native enzyme, half-life is 415.12 min",717094
+65,Streptomycesipomoeae,MK331807,"1 h, no loss of activity",750086
+65,Streptomyces sp. TN119,C6FX34,"puriﬁed recombinant enzyme, 1 h, 70% remaining activity",707196
+65,Thermoclostridiumstercorarium,-,"15 days, stable",171615
+65,Thermopolysporaﬂexuosa,-,"recombinant His-tagged enzyme, 30 min, completelystable up to",707229
+65,Thermothelomycesfergusii,-,"1 h, 61% residual activity",741623
+65,Thermothelomycesthermophilus,-,"1 h, 90% residual activity",742216
+65,Thermothielavioidesterrestris,-,half-life 23 days,742470
+65,,-,"6 h, 80% residual activity",741661
+65,Trametes hirsuta,-,"30 min, 90% loss of activity",171629
+65,Trichoderma reesei,-,"half-lives: wild-type enzyme below 1 min, S110C/N154C 14min, S110C/N154C/Q162H and S110C/N154C/Q162Y 63min, S110C/N154C/Q162H/N11D 107 min,S110C/N154C/Q162Y/N11D 97 min,S110C/N154C/Q162H/N11D/N38D 112 min",656334
+65,Trichoderma viride,-,"30 min, complete inactivation",171623
+66,Aspergillus nidulans,-,half-life: 3 min,171658
+66,Thermomyceslanuginosus,O43097,"melting temperature, wild-type",742096
+70,Acetivibriothermocellus,"P10478,O32374","2 h, 87% activity of mutant Xyn-BDC is remaining, 42% ofmutant Xyn-BDC",709200
+70,,"P10478,O32374","2 h, mutant Xyn-C loses all activity, while mutant XynC-BCretains 70% activity",709200
+70,Alicyclobacillus sp.,D3VWB5,"puriﬁed recombinant XynA4, half-life is 3 min",717947
+70,Aspergillus fumigatus,E0X4B3,"1 h, complete loss of activity for wild-type, 46% residualactivity for mutant T16A/T39I/L176Q, 33% for mutantA60D, 25.8% for mutant S68R, 23.8% for mutantQ47P/S159R",738888
+70,Aspergillus niger,F5CI28,"10 min, complete loss of activity",729014
+70,Bacillus licheniformis,-,"the recombinant enzyme is stable below 70°C, enzymeactivity is rapidly lost above 70°C, the residual activity ofthe recombinant BlxA is 76% at 70°C and pH 6.0 after 2min",682685
+70,,-,"partially puriﬁed extracellular xylanase, loss of 80%activity after 120 min",752334
+70,Bacillus sp. (in:ﬁrmicutes),-,complete inactivation after 1 day,171656
+70,,-,"pH 6.0, 4 h, 20% loss of activity in presence of xylan, 80%loss of activity without xylan",171645
+70,,-,"15 min, stable",171628
+70,,-,"4 h, in presence of xylan, 20% loss of activity",171645
+70,,-,"4 h, 20% activity remaining",717091
+70,,-,"puriﬁed enzyme, 5 h, 82% activity remaining",717105
+70,Bacillus subtilis,-,"35% ﬁnal residual activity in presence of 0.5 M trehaloseas well as 2fold increased half-lives of XylII and XylI,inactivation in absence of trehalose",655381
+70,,Q45VU2,"glycosylated recombinant enzyme, 1 h, 90% remainingactivity",707810
+70,-,,"the thermostable variant XynAG3 loses 90% of its activityafter 10 min, and after 30 min no activity is observed. Thechimeric CotA-XynAG3 retains 60% activity after 10 minand about 20% activity after 120 min. The half-lives of thechimeric enzymes XynAG3 and CotA-XynAG3 are 2.2 and21 min",719992
+70,,A0A172MAU1,"3 h, immobilized enzyme retains 45.3% of its activity,soluble enzyme retains 16.3% of its activity",750593
+70,Caldicellulosiruptorsaccharolyticus,-,"pH 6.0, half-life: 4 min in absence of added protein, 30min, in presence of 0.5 mg/ml bovine serum albumin",171655
+70,Geobacillusstearothermophilus,-,"pH 7.0, half-life is 14.5 h",171651
+70,Irpex lacteus,-,"pH 5.0, 10 min, inactivated",171612
+70,,B8XY24,"puriﬁed recombinant enzyme, 60 min, 10% activityremaining",709503
+70,Malbrancheacinnamomea,A0A088BC14,half-life 76 min,742680
+70,Melanocarpusalbomyces,-,"isozyme Ia shows a half-life of 16.7 min, isozyme IId of 15.6min",654986
+70,Nesterenkoniaxinjiangensis,D1KJJ7,"puriﬁed enzyme, pH 7.0, 60 min, 55% activity remaining",707216
+70,Paecilomyces sp.'thermophila',D1G4K3,"recombinant His-tagged enzyme, half-life is 174.8 min",707603
+70,Paenibacillus sp.,-,"puriﬁed native enzyme, half-life is 102.8 min",717094
+70,Parageobacillusthermantarcticus,-,half-life 24 h,657331
+70,Penicillium janczewskii,-,"24 h, more than 70% residual activity",739567
+70,Penicillium occitanis(nom. inval.),-,"puriﬁed enzyme, 15 min, 68% activity remaining",718338
+70,Phanerodontiachrysosporium,-,"isoforms xynA, xynB, xynC, complete inactivation in 30min",664683
+70,,F2VRY7,"XYN10G, about 90% of activity remaining after 1 h, 37°C",717131
+70,Pseudozymahubeiensis,-,"puriﬁed PhX33, half-life is 15 min",707766
+70,Rasamsoniabyssochlamydoides,-,"pH 5.5, 5 min, xylanase X-a, X-b-I and X-b-II, stable up to",171627
+70,Rhizophlyctis rosea,A0A2U8LMQ3,"1 h, 56% residual activity (small enzyme form RrXyn11A S),1 h, 65% residual activity (larger enzyme form RrXyn11A L)",749718
+70,Saccharopolysporapathumthaniensis,E1APH5,"puriﬁed enzyme, half-life is 120 min",717401
+70,Streptomycesavermitilis,Q9X584,"puriﬁed heavier protein band (42.8 kDa), retains more than40% after a 1 h incubation at 70°C. Retains 35% of itsactivity after a 1 h incubation at 87°C",698373
+70,Streptomycesipomoeae,MK331807,"1 h, 15% loss of activity",750086
+70,Streptomyces sp.,-,"30 min, complete inactivation",171660
+70,C6FX34,"puriﬁed recombinant enzyme, 1 h, 45% remaining activity",707196,
+70,Talaromycesfuniculosus,Q5ZNB1,"puriﬁed recombinant enzyme, 180 min, no loss of activity",718080
+70,Termitomycesclypeatus,-,"1 h, complete loss of activity",171630
+70,Thermoascusaurantiacus,-,"24 h, retains full activity",171601
+70,Thermoascusaurantiacus,-,retains full activity for 24 h,171601
+70,Thermoascusaurantiacus,-,hlaf-life 1.5 days,742421
+70,Thermoascusaurantiacus,-,half-life 204 h,742959
+70,Thermoascusaurantiacus,-,stable for 8 h,741753
+70,Thermoascusaurantiacus,-,stable up to 6 h,735783
+70,Thermobiﬁda fusca,-,"both recombinant TfxA and mutant 2TfxA98 are stable at70°C during 30 min incubation, although the mutant isslightly less stable than the parent at 70°C after 30 min ofincubation",696903
+70,Thermochaetoidesthermophila,Q8J1V6,"puriﬁed recombinant enzyme expressed from gene withintron, half-life is 39.4 min",709894
+70,Thermochaetoidesthermophila,G0S9G3,"60 min, enzyme retains 66.2% of its initial activity,xylanase ativity",750799
+70,Thermochaetoidesthermophila,G0S9G3,"60 min, enzyme retains 74.3% of its initial activity,endoglucanase activity",750799
+70,Thermochaetoidesthermophila,G0S9G3,"puriﬁed recombinant His-tagged enzyme, half-life ofendoxylanase activity is 100 min, 40% activity remainingafter 120 min",750799
+70,Thermoclostridiumstercorarium,-,"10 min, xylanase A, stable",171582
+70,Thermoclostridiumstercorarium,-,stable up to,171661
+70,Thermomyceslanuginosus,-,mutant enzyme retains over 50% activity after 2 h,655088
+70,Thermomyceslanuginosus,O43097,"80 min, 60% remaining activity, native and recombinantenzyme",654274
+70,Thermomyceslanuginosus,-,"30 min, stable up to. 120 min, 67% residual activity",742766
+70,Thermomyceslanuginosus,O43097,"wild-type at pH 8.0, half-life 11 min in presence ofsubstrate, 33 min in absence of substrate, respectively.Mutant Q1C/Q24C at pH 8.0, half-life 229 min in presenceof substrate, 315 min in absence of substrate,respectively. Mutant Q1C/Q24C at pH 9.0, half-life 112 minin presence of substrate, 169 min in absence of substrate,respectively",742096
+70,Thermomyceslanuginosus,O43097,"t1/2: 231 min, fusion enzyme (EG-M-Xyn) ofendoglucanase (cellulase) from Teleogryllus emma andxylanase from Thermomyces lanuginosus, xylanaseactivity",750783
+70,Thermomyceslanuginosus,O43097,"t1/2: 15 min, fusion enzyme (EG-M-Xyn) of endoglucanase(cellulase) from Teleogryllus emma and xylanase fromThermomyces lanuginosus, endoglucanase activity",750783
+70,Thermothelomycesheterothallicus,-,half-life 15 min,655176
+70,Thermothelomycesthermophilus,"G2QIK8,G2QDB9","puriﬁed recombinant enzyme, 30 min, 60% activityremaining",750646
+70,Trichoderma reesei,-,"20 h, complete inactivation",136301
+70,Trichoderma reesei,,-,"10 min: inactivation of mutant S110C/N154C, 50-60%remaining activity of mutants S110C/N154C/Q162H/N11D,S110C/N154C/Q162Y/N11D, andS110C/N154C/Q162H/N11D/N38D"
+70,Trichoderma reesei,,-,"puriﬁed enzyme, 30 min, loss of over 90% activity"
+70,Trichoderma reesei,,-,"puriﬁed recombinant enzyme, loss of 60% activity after 30min"
+70,Trichoderma reesei,,-,"the enzymeactivity remains stable after 30 min at 70°C,but decreases at higher temperatures. No residual activityis detected above 80°C"
+70,Trichoderma reesei,E2DQY5,"xylan as substrate, almost loses its activity aftertreatment for 1 h","xylan as substrate, almost loses its activity aftertreatment for 1 h"
+70,Trichoderma reesei,E2DQY5,"puriﬁed recombinant RuCelA, 1 h, almost no activityremaining",
+70 - 75,Rhizomucor miehei,-,"puriﬁed enzyme, 60 min, completely stable",717022
+70 - 90,Halalkalibacteriumhalodurans,-,"stable up to 70°C, 2% and 16% of the original activity areretained after incubation at 80°C and 90°C, respectively",681342
+70.4,Thermoascusaurantiacus,-,"melting temperature, mutant N257D",738405
+70.9,Thermoascusaurantiacus,-,"melting temperature, wild-type and mutant Q158R",738405
+71.3,Thermoascusaurantiacus,-,"melting temperature, mutant H209N",738405
+74,Thermomyceslanuginosus,O43097,"melting temperature, mutant Q1C/Q24C",742096
+74.5,Talaromyces pinophilus,W8VR85,"mutant S35C/T62C, melting temperature",737727
+75,Bacillusamyloliquefaciens,-,"pH 6.8, 15 min, nearly all activity is destroyed",171646
+75,Bacillus sp. (in:ﬁrmicutes),-,"15 min, inactivation",171628
+75,Geobacillusstearothermophilus,-,"pH 7.0, half-life is 20 min",171651
+75,Microcella alkaliphila,A0A0U5B5Z4,"30 min, stable up to 75°C",738192
+75,Paecilomyces sp.'thermophila',D1G4K3,"recombinant His-tagged enzyme, half-life is 137.9 min",707603
+75,Pseudothermotogathermarum,F7YXD6,"2 h, 75% resiudal activity",729475
+75,Streptomycesipomoeae,MK331807,t1/2: 30 min,750086
+75,Thermoclostridiumstercorarium,-,"1 h, xylanase A and C are stable, xylanase B retains 85% ofits activity",171615
+75,Thermomyceslanuginosus,-,"30 min, 80% loss of activity",171643
+75 - 95,Halalkalibacteriumhalodurans,-,"the enzyme retains more than 80% activity whenincubated at 75°C for 2 h, 37% activity when incubated at85°C for 2 h, and 18% activity after incubation at 95°C for60 min",774238
+80,Acetivibriothermocellus,A3DJS9,"melting temperature, Ca2+ ions provide extra thermalstability",773744
+80,Actinomadura sp.,-,"XynS14 expressed from Pichia pastoris shows 50%remaining activity after 2 h, the enzyme expressed from",717886
+80,,"Escherichia coli shows 30% remaining activity. In thepresence of sorbitol at 90% and glycerol at 50%, theenzyme retains approximately 70% and 80% activity,respectively, at 80°C for 4 h",,
+80,Aspergillus niger,-,"15 min, xylanase IA and Ib are rapidly inactivated above,xylanase II is completly inactivated",171633
+80,Aspergillus niger,-,"15 min, complete inactivation",171634
+80,Aspergillus niger,-,half-life of 33 min,664489
+80,Aspergillus tubingensis,-,22% activity remaining,707209
+80,Bacillus licheniformis,-,"partially puriﬁed extracellular xylanase, loss of 85%activity after 120 min",752334
+80,Bacillus sp. (in:ﬁrmicutes),-,"15 min, complete loss of activity",171645
+80,Bacillus subtilis,Q45VU2,"glycosylated recombinant enzyme, 1 h, 86% remainingactivity",707810
+80,D6MYS9,D6MYS9,"puriﬁed recombinant enzyme, 5 min, pH 3.0, 25%remaining activity",707258
+80,D0QF43,D0QF43,"puriﬁed recombinant Xyl10C, 60 min, completely stablemhalf-life is 45 h",708455
+80,Caldicellulosiruptorowensensis,E4Q2A4,half-life 1 h,745147
+80,Caldicellulosiruptorsaccharolyticus,-,"pH 6.0, half-life is 20 min in presence of 0.5 mg/ml bovineserum albumin",171655
+80,Halalkalibacteriumhalodurans,M4QNR9,"wild-type, half-life 35 min, recombinant glycosylatedenzyme, half-life 45 min",737851
+80,Melanocarpusalbomyces,-,all isozymes are inactivated within 10 min,654986
+80,Melioribacter roseus,"I7A603,I6Z823,I6Z9A7",half-life 1 h,738862
+80,Nesterenkoniaxinjiangensis,D1KJJ7,"puriﬁed enzyme, pH 7.0, 60 min, 10% activity remaining",707216
+80,Parageobacillusthermantarcticus,-,hlaf-life 50 min,657331
+80,Penicillium janczewskii,-,half-life 1.7 h,739567
+80,Rhizomucor miehei,-,"puriﬁed enzyme, 60 min, 80% activity remaining",717022
+80,Saccharopolysporapathumthaniensis,E1APH5,"puriﬁed enzyme, inactivation",717401
+80,Talaromycesfuniculosus,Q5ZNB1,"puriﬁed recombinant enzyme, 10 min, loss of 80% activity",718080
+80,Thermoascusaurantiacus,-,half-life: 54 min,171601
+80,Thermoascusaurantiacus,-,half-life 32 min,741753
+80,Thermochaetoidesthermophila,Q6UN40,"retains 35% enzyme activity. The enzyme shows half livesof 1100, 330, 86, 70, 19.3 and 11.4 min at 30, 40, 50, 60, 70and 80°C, respectively",701091
+80,Thermochaetoidesthermophila,Q8J1V6,"puriﬁed recombinant enzyme expressed from gene withintron, half-life is 18.7 min",709894
+80,Thermochaetoidesthermophila,G0S9G3,"60 min, enzyme retains about 50% of its initial activity,xylanase ativity",750799
+80,Thermochaetoidesthermophila,,G0S9G3,"60 min, enzyme retains 61.3% of its initial activity,endoglucanase activity"
+80,Thermochaetoidesthermophila,,G0S9G3,"puriﬁed recombinant His-tagged enzyme, half-life ofendoxylanase activity is 40 min, 10% activity remainingafter 80 min, inactivation after 120 min"
+80,Thermochaetoidesthermophila,Thermoclostridiumstercorarium,-,enzyme begins to denature at around 80°C
+80,Thermochaetoidesthermophila,Thermomonospora sp.,-,half-life 86 min
+80,Thermochaetoidesthermophila,Thermomyces dupontii,-,half-life 4 h
+80,Thermochaetoidesthermophila,Thermomyceslanuginosus,O43097,"40 min, 60% remaining activity, native and recombinantenzyme"
+80,Thermochaetoidesthermophila,,-,loses 90% activity after 10 min at 80°C
+80,Thermochaetoidesthermophila,,O43097,"t1/2: 63 min, fusion enzyme (EG-M-Xyn) of endoglucanase(cellulase) from Teleogryllus emma and xylanase fromThermomyces lanuginosus, xylanase activity"
+80,Thermochaetoidesthermophila,,O43097,"t1/2: 12 min, fusion enzyme (EG-M-Xyn) of endoglucanase(cellulase) from Teleogryllus emma and xylanase fromThermomyces lanuginosus, endoglucanase activity"
+80,Thermochaetoidesthermophila,Thermopolysporaﬂexuosa,-,"recombinant His-tagged enzyme, 30 min, 50% activityremaining"
+80,Thermochaetoidesthermophila,Thermothelomycesheterothallicus,-,24% remaining activity
+80,Thermochaetoidesthermophila,Thermotoga petrophila,A5IL00,"8 h, enzyme remains stable"
+80.5,Talaromyces pinophilus,T2HRP0,melting temperature,730881
+80.5,,W8VR85,"mutantS35C/N44H/Y61M/T62C/N63L/D65P/N66G/T101P/S102N,melting temperature",737727
+81,Thermoclostridiumstercorarium,-,"half-life of xylanase A is 90 min, half-life of xylanase B is 2min 30 s, half-life of xylanase C is 8 min",171615
+85,Bispora sp. MEY-1,D0QF43,"puriﬁed recombinant Xyl10C, half-life is 3 h",708455
+85,Paecilomyces sp.'thermophila',D1G4K3,"recombinant His-tagged enzyme, 30 min, over 60%activity remaining, half-life is 68.2 min",707603
+85,Rhizomucor miehei,-,"puriﬁed enzyme, 60 min, 40% activity remaining",717022
+85,[Caldibacillus]cellulovorans,Q9L8L8,12% remaining activity of recombinant catalytic domain,656718
+90,Acidothermuscellulolyticus,-,half-life is 1.5 h in presence of xylan,717123
+90,Aspergillus niger,-,"pH 5.0, 10 min, 40% residual activity",731024
+90,Bacillus licheniformis,-,"X-I presents 50% activity at 90°C, and X-II presents 80%activity at the same temperature",677623
+90,,-,"partially puriﬁed extracellular xylanase, loss of 90%activity after 120 min",752334
+90,Bispora sp. MEY-1,D0QF43,"puriﬁed recombinant Xyl10C, 10 min, 87% remainingactivity",708455
+90,Halalkalibacteriumhalodurans,-,half-life 60 h,729408
+90,Nesterenkoniaxinjiangensis,D1KJJ7,"puriﬁed enzyme, pH 7.0, 60 min, 5% activity remaining",707216
+90,Rhizomucor miehei,-,"puriﬁed enzyme, half-life is 30 min, 20% activity remainingafter 60 min",717022
+90,Saccharolobussolfataricus,-,"50% maximal activity is measured after 85 min at 90°C,23% residual activity after 3 h at 90°C",679721
+90,Teredinibacter turnerae,C5BJ89,"puriﬁed recombinant enzyme, 20 min, inactivation",749504
+90,Thermobiﬁda fusca,Q47QL8,"30 min, more than 10% residual activity, recombinantprotein, both with and without His-tag",737932
+90,Thermochaetoidesthermophila,G0S9G3,"60 min, enzyme retains about 30% of its initial activity,xylanase ativity",750799
+90,,G0S9G3,"40 min, enzyme retains about 28% of its initial activity,endoglucanase activity",750799
+90,,G0S9G3,"puriﬁed recombinant His-tagged enzyme, half-life ofendoxylanase activity is 30 min, inactivation after 80 min",750799
+90,Thermomonospora sp.,-,half-life 30 min,654413
+90,Thermomyces dupontii,-,half-life 2 h,741630
+90,Thermomyceslanuginosus,-,"30 min, complete inactivation",171643
+90,,O43097,"t1/2: 20 min, fusion enzyme (EG-M-Xyn) of endoglucanase(cellulase) from Teleogryllus emma and xylanase fromThermomyces lanuginosus, xylanase activity",750783
+90,,O43097,"t1/2: 12 min, fusion enzyme (EG-M-Xyn) of endoglucanase(cellulase) from Teleogryllus emma and xylanase fromThermomyces lanuginosus, endoglucanase activity",750783
+90,Thermotoga maritima,-,stable below,663571
+95,Rasamsoniabyssochlamydoides,-,"5 min, enzyme form X-a retains 65% of the originalactivity, enzyme form X-b-I retains 65% of the originalactivity, enzyme form X-b-II retains 65% of the originalactivity",171627
+95,,-,"t1/2: 5 min, xylanase a",738999
+95,Saccharolobussolfataricus,Q97YG7,half-life: 53 min,692258
+95,Thermopolysporaﬂexuosa,-,"recombinant His-tagged enzyme, 30 min, 10% activityremaining",707229
+95,[Caldibacillus]cellulovorans,Q9L8L8,60% remaining activity of recombinant N-terminal +catalytic domains,656718
+96,Thermotoga petrophila,A5IL00,half-life: 54.5 min,748630
+96,additionalinformation,Aspergillus cf. nigerBCC14405,Q6QA21,thermostablitiy increases by 30-50% when 2 M sorbitol isadded
+96,additionalinformation,,-,thermostablitiy increases by 30-50% when 2 M sorbitol isadded
+96,additionalinformation,Aspergillus ochraceus,-,K+ stabilizes against thermal inactivation
+96,additionalinformation,Bacillus subtilis,-,"trehalose stabilizes both isozymes at 60°C and 70°C andincreases the enzyme activity, thermal deactivationkinetics of enzyme forms XylI and XylII"
+96,additionalinformation,Euphausia superba,-,very low thermostability of isozymes A and B
+96,additionalinformation,Melanocarpusalbomyces,-,"half-lives of the 7 isozymes at different temperatures,isozyme Ia is the most stable, overview"
+96,additionalinformation,Niallia circulans,P09850,Tm of wild-type and mutant enzymes
+96,additionalinformation,,P09850,"thermal denaturation measurements, circular dichroism,overview"
+96,additionalinformation,,-,"thermal denaturation measurements, circular dichroism,overview"
+96,additionalinformation,Paenibacillus terrae,F1KBQ3,the absence of the xylan-binding domain results in adecrement of 40% in thermostability
+96,additionalinformation,Pseudoalteromonashaloplanktis,Q8RJN8,psychrophilic enzyme with high activity at lowtemperatures and low thermal stability
+96,additionalinformation,Thermopolysporaﬂexuosa,-,"the C-terminal carbohydrate binding module has only aslight effect, whereas a polyhistidine tag increases thethermostability of XYN10A"
+96,additionalinformation,Thermotoga maritima,-,features that account for the high thermostability ofenzyme are clusters of aromatic residues together with alack of exposed hydrophobic residues
