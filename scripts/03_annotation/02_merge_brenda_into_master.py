@@ -25,8 +25,14 @@ def norm_text(x):
 
 def prepare_brenda_wide(brenda):
     opt = brenda[brenda["record_type"] == "optimum_temperature"].copy()
+    opt["optimum_temperature_brenda"] = opt["temperature_value"]
+    opt["optimum_temperature_source"] = "BRENDA:" + opt["literature"].fillna("").astype(str).str.strip()
     rng = brenda[brenda["record_type"] == "temperature_range"].copy()
+    rng["temperature_range_brenda"] = rng["temperature_value"]
+    rng["temperature_range_source"] = "BRENDA:" + rng["literature"].fillna("").astype(str).str.strip()
     stab = brenda[brenda["record_type"] == "temperature_stability"].copy()
+    stab["temperature_stability_brenda"] = stab["temperature_value"]
+    stab["temperature_stability_source"] = "BRENDA:" + stab["literature"].fillna("").astype(str).str.strip()
 
     opt = opt.rename(columns={
         "value": "optimum_temperature_brenda",

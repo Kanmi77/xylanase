@@ -1,0 +1,6 @@
+BRENDA merge report
+==================================================
+Master rows: 36337
+Filtered rows: 155
+Master rows with optimum_temperature after merge: 379
+Filtered rows with optimum_temperature after merge: 16
