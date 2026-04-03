@@ -1,0 +1,22 @@
+Xylanase curation results summary
+========================================
+Total rows: 36337
+Columns: 17
+
+GH family distribution:
+gh_family
+NaN    36337
+
+Organism type distribution:
+organism_type
+bacterial    22389
+fungal        9274
+NaN           4674
+
+PDB availability:
+has_pdb
+0    36221
+1      116
+
+Rows with RefSeq IDs: 19629
+Rows with PDB IDs: 116
