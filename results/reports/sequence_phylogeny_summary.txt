@@ -1,0 +1,21 @@
+Sequence and phylogenetic analysis summary
+==================================================
+Filtered entries used: 155
+
+Organism type x GH family:
+gh_family      GH10  GH11
+organism_type            
+bacterial        56    32
+fungal           22    45
+
+Temperature class counts:
+temp_class
+unlabeled       144
+mesophilic        8
+thermostable      3
+
+ProtParam rows computed: 155
+
+No predicted pI column found in protparam_features.csv
+
+No GRAVY column found in protparam_features.csv
