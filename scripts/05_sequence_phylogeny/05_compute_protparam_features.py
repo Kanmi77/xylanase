@@ -23,7 +23,9 @@ for _, row in df.iterrows():
 
     try:
         pa = ProteinAnalysis(seq)
-        aa_percent = pa.amino_acids_percent()
+        aa_percent = pa.amino_acids_percent
+        ss = pa.secondary_structure_fraction()
+
         rec = {
             "uniprot_accession": acc,
             "organism": row.get("organism", ""),
@@ -35,15 +37,18 @@ for _, row in df.iterrows():
             "instability_index": pa.instability_index(),
             "gravy": pa.gravy(),
             "predicted_pI": pa.isoelectric_point(),
-            "secondary_structure_fraction_helix": pa.secondary_structure_fraction()[0],
-            "secondary_structure_fraction_turn": pa.secondary_structure_fraction()[1],
-            "secondary_structure_fraction_sheet": pa.secondary_structure_fraction()[2],
+            "secondary_structure_fraction_helix": ss[0],
+            "secondary_structure_fraction_turn": ss[1],
+            "secondary_structure_fraction_sheet": ss[2],
             "optimum_temperature": row.get("optimum_temperature", ""),
             "optimum_pH": row.get("optimum_pH", ""),
         }
+
         for aa in aa_order:
             rec[f"aa_{aa}_fraction"] = aa_percent.get(aa, 0.0)
+
         rows.append(rec)
+
     except Exception as e:
         rows.append({
             "uniprot_accession": acc,
