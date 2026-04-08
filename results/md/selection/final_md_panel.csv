@@ -1,0 +1,3 @@
+uniprot_accession,organism_type,gh_family,model_path,composite_score,composite_rank
+Q9RQB7,bacterial,GH10,/home/ubuntu/xylanase/xylanase/models/swiss_model/outputs/Q9RQB7_swissmodel.pdb,0.6643710021778979,29.0
+E9SA77,bacterial,GH11,/home/ubuntu/xylanase/xylanase/models/swiss_model/outputs/E9SA77_swissmodel.pdb,0.3566463215055971,142.0

@@ -1,0 +1,1 @@
+uniprot_accession,organism,organism_type,gh_family,model_path,mutation_chain,alignment_position,consensus_aa,proposed_mutation,duet_ddg_x,dbd2_candidate,rationale,notes,tested_mutation,duet_ddg_y,duet_interpretation,dbd2_pair,dbd2_score,dbd2_prediction,dbd2_interpretation,duet_rank_score,dbd2_positive

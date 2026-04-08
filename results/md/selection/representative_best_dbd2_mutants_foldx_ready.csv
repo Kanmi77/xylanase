@@ -1,0 +1,5 @@
+uniprot_accession,dbd2_pair,foldx_mutation,wt_model_path,mutation_list_path
+Q6V8M0,A50C-A150C,"A50C,A150C;",MISSING,results/md/mutant_models/mutation_lists/Q6V8M0_mutations.txt
+Q8GMV7,A120C-A220C,"A120C,A220C;",MISSING,results/md/mutant_models/mutation_lists/Q8GMV7_mutations.txt
+A0A024FSH9,A180C-A280C,"A180C,A280C;",results/md/mutant_models/wt_inputs/A0A024FSH9.pdb,results/md/mutant_models/mutation_lists/A0A024FSH9_mutations.txt
+Q8J1V6,A80C-A180C,"A80C,A180C;",MISSING,results/md/mutant_models/mutation_lists/Q8J1V6_mutations.txt

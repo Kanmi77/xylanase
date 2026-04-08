@@ -1,0 +1,30 @@
+uniprot_accession,dbd2_pair,dbd2_score,dbd2_prediction,dbd2_interpretation,res1_chain,res1_seq,res1_aa,res2_chain,res2_seq,res2_aa,chi3,sum_b_factors,seq_sep,chi3_valid,source_file
+A0A024FRL8,A169C-A223C,0.38,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,169,HIS,A,223,SER,92.55,1.98,54,True,A0A024FRL8_swissmodel.csv
+A0A024FS83,A160C-A206C,1.3,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,160,ASN,A,206,ASP,-107.92,1.98,46,True,A0A024FS83_swissmodel.csv
+A0A286N5W6,A221C-A242C,0.57,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,221,THR,A,242,GLY,-92.55,1.9,21,True,A0A286N5W6_swissmodel.csv
+A0A3Q8TLG0,A86C-A125C,0.51,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,86,ALA,A,125,ASN,109.69,1.96,39,True,A0A3Q8TLG0_swissmodel.csv
+A0A5P6VQ80,A130C-A188C,0.64,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,130,TYR,A,188,TYR,109.14,1.92,58,True,A0A5P6VQ80_swissmodel.csv
+A0A5P6VU75,A289C-A327C,0.69,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,289,LYS,A,327,ASN,-85.64,1.31,38,True,A0A5P6VU75_swissmodel.csv
+A0A8D5NM93,A209C-A242C,0.71,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,209,CYS,A,242,CYS,-99.17,1.94,33,True,A0A8D5NM93_swissmodel.csv
+A0AAW8VCD8,A106C-A154C,1.39,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,106,CYS,A,154,ASP,-97.12,1.95,48,True,A0AAW8VCD8_swissmodel.csv
+A0ABM8UZ22,A436C-A465C,0.91,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,436,ARG,A,465,ASP,114.75,0.93,29,True,A0ABM8UZ22_swissmodel.csv
+A0ABN7S7D7,A180C-A252C,1.28,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,180,HIS,A,252,SER,78.72,1.97,72,True,A0ABN7S7D7_swissmodel.csv
+A0ABN7S882,A109C-A153C,1.08,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,109,THR,A,153,PHE,-97.72,1.98,44,True,A0ABN7S882_swissmodel.csv
+A7TVD4,A209C-A242C,0.72,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,209,CYS,A,242,CYS,-99.66,1.91,33,True,A7TVD4_swissmodel.csv
+B1A3N2,A860C-A899C,0.28,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,860,ALA,A,899,ALA,87.45,1.96,39,True,B1A3N2_swissmodel.csv
+B3PIN0,A91C-A326C,0.38,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,91,SER,A,326,TYR,106.1,1.83,235,True,B3PIN0_swissmodel.csv
+D2KPJ0,A126C-A173C,0.98,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,126,SER,A,173,ASN,-98.68,1.88,47,True,D2KPJ0_swissmodel.csv
+D6CGY9,A123C-A175C,0.75,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,123,CYS,A,175,LYS,-78.52,1.96,52,True,D6CGY9_swissmodel.csv
+E0RYH1,A190C-A277C,0.18,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,190,HIS,A,277,SER,92.56,1.96,87,True,E0RYH1_swissmodel.csv
+E0S1S5,A107C-A180C,0.03,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,107,TYR,A,180,LYS,95.38,1.97,73,True,E0S1S5_swissmodel.csv
+E0S1Z8,A187C-A219C,1.19,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,187,SER,A,219,ASP,90.36,1.98,32,True,E0S1Z8_swissmodel.csv
+E0S2F5_swissmodel (1).csv,A911C-A1029C,0.42,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,911,ALA,A,1029,ASP,-82.22,1.86,118,True,E0S2F5_swissmodel (1).csv
+E0S2F5,A911C-A1029C,0.42,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,911,ALA,A,1029,ASP,-82.22,1.86,118,True,E0S2F5_swissmodel.csv
+E9SA77,A613C-A643C,1.17,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,613,ILE,A,643,ALA,-79.37,1.98,30,True,E9SA77_swissmodel.csv
+E9SDY0,A191C-A223C,1.11,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,191,LYS,A,223,ASN,-102.0,1.92,32,True,E9SDY0_swissmodel.csv
+G0YP25,A88C-A206C,0.7,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,88,ASN,A,206,TYR,106.05,1.73,118,True,G0YP25_swissmodel.csv
+J7JXS8,A704C-A743C,0.09,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,704,ALA,A,743,THR,91.95,1.94,39,True,J7JXS8_swissmodel.csv
+Q21NZ2,A274C-A571C,0.37,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,274,ALA,A,571,SER,93.29,1.98,297,True,Q21NZ2_swissmodel.csv
+Q6GVM9,A346C-A412C,0.55,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,346,GLN,A,412,PHE,110.76,1.93,66,True,Q6GVM9_swissmodel.csv
+Q79MJ7,A126C-A173C,0.98,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,126,SER,A,173,ASN,-98.68,1.88,47,True,Q79MJ7_swissmodel.csv
+Q9RQB7,A946C-A982C,0.35,favorable,ideal geometry with low energy; long-range disulfide likely stabilizing,A,946,PRO,A,982,SER,-88.17,1.83,36,True,Q9RQB7_swissmodel.csv
