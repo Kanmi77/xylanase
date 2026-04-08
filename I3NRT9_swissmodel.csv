@@ -1,0 +1,29 @@
+"Disulfide by Design",2.13
+"Input File","I3NRT9_swissmodel.pdb"
+"Input File Model",1
+"Number of complete residues",190
+"Optimum Chi3 angle: +97/-87 with Tolerance",30.00
+"Optimum Ca-Cb-S angle: 114.60 with Tolerance",10.00
+"Check for INTER-chain disulfides",True
+"Check for INTRA-chain disulfides",True
+
+"Res1 Chain","Res1 Seq #","Res1 AA","Res2 Chain","Res2 Seq #","Res2 AA","Chi3","Energy","Sum B-Factors"
+"A",53,"HIS","A",72,"LEU",125.29,9.06,1.75
+"A",62,"THR","A",88,"PHE",-79.44,4.32,1.79
+"A",64,"SER","A",86,"GLY",-75.66,3.23,1.71
+"A",67,"THR","A",85,"THR",106.09,2.15,1.74
+"A",73,"GLY","A",77,"ASN",-98.14,3.90,1.79
+"A",79,"SER","A",226,"ASN",113.05,2.18,1.86
+"A",91,"GLY","A",213,"ILE",-102.96,3.86,1.89
+"A",97,"GLY","A",120,"GLY",105.24,2.98,1.88
+"A",99,"ARG","A",193,"GLY",86.73,3.60,1.70
+"A",110,"PRO","A",114,"ALA",79.78,2.69,1.88
+"A",116,"LEU","A",134,"ASN",90.05,6.21,1.88
+"A",126,"LEU","A",174,"PHE",118.11,2.24,1.76
+"A",142,"GLY","A",160,"THR",-95.90,3.97,1.78
+"A",145,"LYS","A",202,"HIS",123.96,7.61,1.72
+"A",148,"VAL","A",198,"ALA",71.77,4.01,1.87
+"A",150,"SER","A",194,"ASN",-94.49,0.52,1.84
+"A",155,"TYR","A",179,"SER",109.94,3.41,1.91
+"A",162,"ARG","A",165,"ALA",105.69,7.70,1.61
+"A",199,"TRP","A",204,"MET",-102.22,5.35,1.76
